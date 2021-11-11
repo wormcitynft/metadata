@@ -1,4 +1,18 @@
 {
     "tokenId": 78,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/78.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Holy",
+        "number": 7,
+        "clothes": "Hopbush crop top",
+        "emotion": "High with hollywood cerise makeup",
+        "glasses": "Elf green Swimming mask with cosmic",
+        "headwear": "Texas rose cylinder with mule fawn line",
+        "necklace": "Navy blue necklace",
+        "background": "Worm City exclusive circle portal background #128",
+        "clothes print": "Vinyl"
+    },
+    "name": "Wormshington citizen #78"
 }

@@ -1,4 +1,17 @@
 {
     "tokenId": 14,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/14.png",
+    "attributes": {
+        "sex": "Female",
+        "ears": "Picton blue earring balls",
+        "hands": "Sides",
+        "matter": "Holy",
+        "number": 3,
+        "clothes": "Wild rice t-shirt",
+        "emotion": "Envious",
+        "haircut": "Wild watermelon hipster",
+        "background": "Worm City delicate muted diamond portal background #83",
+        "tail tattoo": "Jazzberry jam skull"
+    },
+    "name": "Wormshington citizen #14"
 }

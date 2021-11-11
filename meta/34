@@ -1,4 +1,18 @@
 {
     "tokenId": 34,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/34.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "matter": "Dark",
+        "number": 1,
+        "clothes": "Paradiso kimono",
+        "emotion": "Excited",
+        "glasses": "Cornflower blue Zak's glasses with submarine glass",
+        "haircut": "cerise man bun",
+        "background": "Worm City exclusive circle portal background #102",
+        "tail tattoo": "Grey skull",
+        "tail accessory": "Fresh eggplant hook with hot cinnamon line"
+    },
+    "name": "Wormshington citizen #34"
 }

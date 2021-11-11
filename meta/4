@@ -1,4 +1,19 @@
 {
     "tokenId": 4,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/4.png",
+    "attributes": {
+        "bag": "Turquoise thrown bag",
+        "sex": "Male",
+        "ears": "Golden fizz true wireless earbuds",
+        "hands": "Sides",
+        "matter": "Lightning",
+        "number": 9,
+        "clothes": "Rose sailor's shirt",
+        "emotion": "Angry with jacked eye",
+        "glasses": "Falcon pince-nez",
+        "haircut": "Electric violet hipster",
+        "background": "Worm City delicate muted diamond portal background #90",
+        "tail tattoo": "Millbrook love"
+    },
+    "name": "Wormshington citizen #4"
 }

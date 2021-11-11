@@ -1,4 +1,14 @@
 {
     "tokenId": 9,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/9.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Ice",
+        "number": 7,
+        "emotion": "Delightful with jacked eye",
+        "haircut": "hollywood cerise punk",
+        "background": "Worm City delicate muted diamond portal background #53"
+    },
+    "name": "Wormshington citizen #9"
 }

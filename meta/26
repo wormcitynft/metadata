@@ -1,4 +1,14 @@
 {
     "tokenId": 26,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/26.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "matter": "Wind",
+        "number": 13,
+        "emotion": "Angry",
+        "haircut": "william punk",
+        "background": "Worm City atmospheric cold background #64"
+    },
+    "name": "Wormshington citizen #26"
 }

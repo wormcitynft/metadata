@@ -1,4 +1,17 @@
 {
     "tokenId": 61,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/61.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Provincial pink true wireless earbuds",
+        "hands": "One up",
+        "matter": "Fire",
+        "number": 4,
+        "emotion": "Innocent",
+        "glasses": "Epic funny eyes",
+        "haircut": "Epic thunderbird disheveled",
+        "background": "Worm City delicate muted circle portal background #75",
+        "body tattoo": "Violet Eggplant"
+    },
+    "name": "Epic worm #61"
 }

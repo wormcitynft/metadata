@@ -1,4 +1,16 @@
 {
     "tokenId": 58,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/58.png",
+    "attributes": {
+        "sex": "Female",
+        "ears": "Gorse true wireless earbuds",
+        "hands": "Up",
+        "matter": "Water",
+        "number": 6,
+        "clothes": "Daintree suit",
+        "emotion": "Skeptical with blue ribbon makeup",
+        "headwear": "Confetti stetson with medium purple line",
+        "background": "Worm City delicate muted diamond portal background #124"
+    },
+    "name": "Wormshington citizen #58"
 }

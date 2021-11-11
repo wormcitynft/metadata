@@ -1,4 +1,19 @@
 {
     "tokenId": 1,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/1.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Earth",
+        "number": 6,
+        "clothes": "Flamingo t-shirt",
+        "emotion": "Weasel",
+        "glasses": "Acapulco Swimming mask with celery",
+        "haircut": "Cranberry Rock n' Roll",
+        "background": "Worm City delicate muted circle portal background #4",
+        "tail tattoo": "Saber",
+        "clothes print": "Heart",
+        "tail accessory": "Shingle fawn anchor"
+    },
+    "name": "Wormshington citizen #1"
 }

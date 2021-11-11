@@ -1,4 +1,19 @@
 {
     "tokenId": 33,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/33.png",
+    "attributes": {
+        "bag": "Turquoise thrown bag",
+        "sex": "Male",
+        "ears": "Moss green true wireless earbuds",
+        "hands": "Down",
+        "matter": "Dark",
+        "number": 4,
+        "clothes": "Patina t-shirt",
+        "emotion": "Shell-shocked",
+        "glasses": "Violet red Zak's glasses with pelorous glass",
+        "haircut": "hollywood cerise punk",
+        "background": "Worm City delicate muted circle portal background #33",
+        "hand accessory": "Merlin smart watches with green yellow strap"
+    },
+    "name": "Wormshington citizen #33"
 }

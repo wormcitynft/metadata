@@ -1,4 +1,15 @@
 {
     "tokenId": 27,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/27.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Provincial pink true wireless earbuds",
+        "hands": "Sides",
+        "matter": "Lightning",
+        "number": 7,
+        "clothes": "Edward t-shirt with skull",
+        "emotion": "Confident",
+        "background": "Worm City delicate muted background #6"
+    },
+    "name": "Wormshington citizen #27"
 }

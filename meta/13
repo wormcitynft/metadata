@@ -1,4 +1,18 @@
 {
     "tokenId": 13,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/13.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "matter": "Earth",
+        "number": 7,
+        "clothes": "Mustard t-shirt",
+        "emotion": "Pleasured with sunset orange makeup",
+        "glasses": "Fuchsia blue aviator with tapestry glass",
+        "haircut": "Torch red double trouble with gradient",
+        "background": "Worm City classic background #118",
+        "clothes print": "Vinyl",
+        "hand accessory": "Blue ribbon brace"
+    },
+    "name": "Wormshington citizen #13"
 }

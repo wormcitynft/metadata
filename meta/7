@@ -1,4 +1,16 @@
 {
     "tokenId": 7,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/7.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "matter": "Water",
+        "number": 1,
+        "clothes": "Pancho crop top",
+        "emotion": "Enduring with turbo makeup",
+        "glasses": "Blue ribbon aviator with aqua forest glass",
+        "haircut": "Snuff ponytail",
+        "background": "Worm City delicate muted diamond portal background #105"
+    },
+    "name": "Wormshington citizen #7"
 }

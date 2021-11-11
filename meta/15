@@ -1,4 +1,17 @@
 {
     "tokenId": 15,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/15.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Holy",
+        "number": 11,
+        "clothes": "Tree poppy t-shirt with skull",
+        "emotion": "Shell-shocked with jacked eye",
+        "haircut": "governor bay punk",
+        "background": "Worm City classic background #143",
+        "hand accessory": "Merlin smart watches with amaranth strap",
+        "tail accessory": "Electric violet fish"
+    },
+    "name": "Wormshington citizen #15"
 }

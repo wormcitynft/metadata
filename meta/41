@@ -1,4 +1,7 @@
 {
     "tokenId": 41,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/41.png",
+    "attributes": [],
+    "name": "Snoop Dogg",
+    "animation_url": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/41.mp4"
 }

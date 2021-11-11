@@ -1,4 +1,16 @@
 {
     "tokenId": 29,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/29.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Dark",
+        "number": 12,
+        "clothes": "Bright turquoise t-shirt with skull",
+        "emotion": "Envious with jacked eye",
+        "haircut": "Mantis disheveled",
+        "background": "Worm City exclusive circle portal background #166",
+        "tail tattoo": "Mom"
+    },
+    "name": "Wormshington citizen #29"
 }

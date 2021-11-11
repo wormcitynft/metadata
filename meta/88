@@ -1,4 +1,20 @@
 {
     "tokenId": 88,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/88.png",
+    "attributes": {
+        "sex": "Female",
+        "bird": "Morning glory screaming cockatoo",
+        "ears": "Screamin' green earring anchor",
+        "hands": "Up",
+        "matter": "Fire",
+        "number": 3,
+        "clothes": "Salt box crop top",
+        "emotion": "Skeptical",
+        "glasses": "Nevada pince-nez with red frames",
+        "haircut": "Purple heart granny",
+        "necklace": "Wild strawberry necklace",
+        "background": "Worm City delicate muted abstract portal background #99",
+        "hand accessory": "Fuchsia blue brace"
+    },
+    "name": "Wormshington citizen #88"
 }

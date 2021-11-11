@@ -1,4 +1,17 @@
 {
     "tokenId": 52,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/52.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "matter": "Fire",
+        "number": 5,
+        "clothes": "Chetwode blue crop top",
+        "emotion": "Rickie with magenta \/ fuchsia makeup",
+        "glasses": "Elf green pince-nez",
+        "headwear": "Astral, electric violet, electric violet sombrero",
+        "necklace": "Hint of yellow necklace with blue charcoal gem",
+        "background": "Worm City exclusive diamond portal background #39"
+    },
+    "name": "Wormshington citizen #52"
 }

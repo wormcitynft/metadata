@@ -1,4 +1,18 @@
 {
     "tokenId": 83,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/83.png",
+    "attributes": {
+        "sex": "Male",
+        "bird": "Link water morning cock",
+        "ears": "Razzle dazzle rose true wireless earbuds",
+        "hands": "One up",
+        "matter": "Water",
+        "number": 10,
+        "clothes": "Mountain meadow 404 ERROR t-shirt",
+        "emotion": "Weasel with jacked eye",
+        "glasses": "Jacarta 3D glasses",
+        "headwear": "Fruit salad cylinder with amaranth line",
+        "background": "Worm City phenomenal background #2"
+    },
+    "name": "Wormshington citizen #83"
 }

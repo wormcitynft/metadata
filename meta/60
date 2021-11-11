@@ -1,4 +1,15 @@
 {
     "tokenId": 60,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/60.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Fire",
+        "number": 7,
+        "clothes": "Rust 404 ERROR t-shirt",
+        "emotion": "Intrigued with jacked eye",
+        "haircut": "carnation punk",
+        "background": "Worm City exclusive diamond portal background #78"
+    },
+    "name": "Wormshington citizen #60"
 }

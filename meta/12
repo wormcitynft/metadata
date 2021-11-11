@@ -1,4 +1,17 @@
 {
     "tokenId": 12,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/12.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Provincial pink true wireless earbuds",
+        "hands": "Sides",
+        "matter": "Wind",
+        "number": 13,
+        "clothes": "Sandrift kimono",
+        "emotion": "Lustful",
+        "glasses": "Anakiwa funny eyes",
+        "haircut": "Picton blue disheveled",
+        "background": "Worm City delicate muted background #21"
+    },
+    "name": "Wormshington citizen #12"
 }

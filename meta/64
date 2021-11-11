@@ -1,4 +1,17 @@
 {
     "tokenId": 64,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/64.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Azure radiance true wireless earbuds",
+        "hands": "One up",
+        "matter": "Wind",
+        "number": 7,
+        "clothes": "Jade 404 ERROR t-shirt",
+        "emotion": "Envious with jacked eye",
+        "glasses": "Shark aviator with toast glass",
+        "haircut": "tundora punk",
+        "background": "Worm City classic background #144"
+    },
+    "name": "Wormshington citizen #64"
 }

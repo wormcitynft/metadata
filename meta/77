@@ -1,4 +1,15 @@
 {
     "tokenId": 77,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/77.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "matter": "Earth",
+        "number": 2,
+        "clothes": "Patina t-shirt",
+        "emotion": "Shell-shocked with jacked eye",
+        "headwear": "Stiletto eight-blade",
+        "background": "Worm City delicate muted abstract portal background #57"
+    },
+    "name": "Wormshington citizen #77"
 }

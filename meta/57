@@ -1,4 +1,18 @@
 {
     "tokenId": 57,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/57.png",
+    "attributes": {
+        "sex": "Male",
+        "coins": "Golden dash coin",
+        "hands": "One up",
+        "matter": "Water",
+        "number": 2,
+        "clothes": "Blue bayoux t-shirt with skull",
+        "emotion": "Delightful",
+        "glasses": "Olive pince-nez",
+        "haircut": "Cerulean blue Rock n' Roll",
+        "background": "Worm City phenomenal cold background #36",
+        "tail tattoo": "Lucky"
+    },
+    "name": "Wormshington citizen #57"
 }

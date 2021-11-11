@@ -1,4 +1,16 @@
 {
     "tokenId": 42,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/42.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "matter": "Lightning",
+        "number": 8,
+        "clothes": "Cararra suit",
+        "emotion": "Delightful",
+        "glasses": "Royal heath Swimming mask with electric violet",
+        "headwear": "Stonewall panama",
+        "background": "Worm City atmospheric cold background #94"
+    },
+    "name": "Wormshington citizen #42"
 }

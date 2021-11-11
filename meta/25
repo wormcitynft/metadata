@@ -1,4 +1,18 @@
 {
     "tokenId": 25,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/25.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Moss green true wireless earbuds",
+        "hands": "One up",
+        "matter": "Wind",
+        "number": 3,
+        "clothes": "Gun powder kimono",
+        "emotion": "Innocent",
+        "glasses": "Razzmatazz aviator with electric violet glass",
+        "headwear": "Epic rainbow army beret",
+        "background": "Worm City delicate muted background #115",
+        "tail accessory": "Aquamarine anglerfish"
+    },
+    "name": "Epic worm #25"
 }

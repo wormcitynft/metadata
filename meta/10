@@ -1,4 +1,19 @@
 {
     "tokenId": 10,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/10.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Azure radiance true wireless earbuds",
+        "hands": "Sides",
+        "matter": "Earth",
+        "number": 2,
+        "clothes": "True v sailor's shirt",
+        "emotion": "Shell-shocked with jacked eye",
+        "glasses": "Finlandia pince-nez",
+        "haircut": "Mantis disheveled",
+        "background": "Worm City exclusive diamond portal background #63",
+        "tail tattoo": "Lucky",
+        "tail accessory": "Atlantis anglerfish"
+    },
+    "name": "Wormshington citizen #10"
 }

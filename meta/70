@@ -1,4 +1,16 @@
 {
     "tokenId": 70,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/70.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Lightning",
+        "number": 10,
+        "clothes": "Edward t-shirt",
+        "emotion": "Intrigued",
+        "haircut": "Mint green geek",
+        "background": "Worm City delicate muted circle portal background #70",
+        "hand accessory": "Merlin smart watches with electric violet strap"
+    },
+    "name": "Wormshington citizen #70"
 }

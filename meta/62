@@ -1,4 +1,17 @@
 {
     "tokenId": 62,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/62.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Ice",
+        "number": 11,
+        "clothes": "Luxor gold 404 ERROR t-shirt",
+        "emotion": "Weasel with jacked eye",
+        "glasses": "Finn Zak's glasses with fuchsia pink glass",
+        "haircut": "Half baked Blade",
+        "background": "Worm City exclusive diamond portal background #81",
+        "hand accessory": "Merlin smart watches with electric violet strap"
+    },
+    "name": "Wormshington citizen #62"
 }

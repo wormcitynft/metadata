@@ -1,4 +1,18 @@
 {
     "tokenId": 19,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/19.png",
+    "attributes": {
+        "sex": "Male",
+        "bird": "Burnt umber morning cock",
+        "hands": "Down",
+        "matter": "Wind",
+        "number": 12,
+        "emotion": "Envious",
+        "glasses": "Link water aviator with hokey pokey glass",
+        "haircut": "caper punk",
+        "background": "Worm City delicate muted diamond portal background #48",
+        "body tattoo": "East Bay",
+        "hand accessory": "Merlin smart watches with ironside gray strap"
+    },
+    "name": "Wormshington citizen #19"
 }

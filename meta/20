@@ -1,4 +1,16 @@
 {
     "tokenId": 20,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/20.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "matter": "Fire",
+        "number": 4,
+        "clothes": "Flirt 404 ERROR t-shirt",
+        "emotion": "Hopeful with jacked eye",
+        "headwear": "Pickled bluewood winter hat",
+        "background": "Worm City delicate muted abstract portal background #37",
+        "tail tattoo": "Minsk skull"
+    },
+    "name": "Wormshington citizen #20"
 }

@@ -1,4 +1,15 @@
 {
     "tokenId": 103,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/103.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "matter": "Holy",
+        "number": 8,
+        "clothes": "Regent st blue kimono",
+        "emotion": "Resentful",
+        "haircut": "Selective yellow Blade",
+        "background": "Worm City atmospheric cold background #78"
+    },
+    "name": "Wormshington citizen #103"
 }

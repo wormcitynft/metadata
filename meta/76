@@ -1,4 +1,17 @@
 {
     "tokenId": 76,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/76.png",
+    "attributes": {
+        "sex": "Female",
+        "bird": "Link water morning cock",
+        "hands": "One up",
+        "matter": "Holy",
+        "number": 5,
+        "clothes": "Indigo nightie",
+        "emotion": "Rickie with bright turquoise makeup",
+        "glasses": "Mantis aviator with cutty sark glass",
+        "haircut": "Half baked Leia",
+        "background": "Worm City delicate muted diamond portal background #63"
+    },
+    "name": "Wormshington citizen #76"
 }

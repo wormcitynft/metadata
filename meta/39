@@ -1,4 +1,20 @@
 {
     "tokenId": 39,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/39.png",
+    "attributes": {
+        "bag": "Turquoise thrown bag",
+        "sex": "Female",
+        "ears": "Scooter earring anchor",
+        "hands": "Up",
+        "matter": "Water",
+        "number": 11,
+        "clothes": "Contessa dress",
+        "emotion": "Confident with light bright turquoise makeup",
+        "glasses": "Pomegranate aviator with rolling stone glass",
+        "headwear": "Picton blue cap",
+        "necklace": "Ripe lemon necklace with hot toddy gem",
+        "background": "Worm City delicate muted diamond portal background #86",
+        "tail accessory": "Rose bud anglerfish"
+    },
+    "name": "Wormshington citizen #39"
 }

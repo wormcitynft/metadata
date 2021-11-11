@@ -1,4 +1,15 @@
 {
     "tokenId": 69,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/69.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "matter": "Dark",
+        "number": 7,
+        "emotion": "Enduring with jacked eye",
+        "haircut": "aqua island man bun",
+        "background": "Worm City phenomenal background #27",
+        "body tattoo": "East Bay"
+    },
+    "name": "Wormshington citizen #69"
 }

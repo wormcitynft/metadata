@@ -1,4 +1,15 @@
 {
     "tokenId": 43,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/43.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "matter": "Water",
+        "number": 7,
+        "clothes": "California 404 ERROR t-shirt",
+        "emotion": "Skeptical",
+        "haircut": "rosewood man bun",
+        "background": "Worm City delicate muted abstract portal background #26"
+    },
+    "name": "Wormshington citizen #43"
 }

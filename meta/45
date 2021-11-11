@@ -1,4 +1,16 @@
 {
     "tokenId": 45,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/45.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "matter": "Lightning",
+        "number": 5,
+        "clothes": "Lemon grass t-shirt with skull",
+        "emotion": "High",
+        "haircut": "Caribbean green Mr Chong",
+        "background": "Worm City delicate muted background #113",
+        "tail accessory": "Orange hook with regent st blue line"
+    },
+    "name": "Wormshington citizen #45"
 }

@@ -1,4 +1,17 @@
 {
     "tokenId": 16,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/16.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Golden fizz true wireless earbuds",
+        "hands": "Down",
+        "matter": "Lightning",
+        "number": 1,
+        "clothes": "Blue bayoux suit",
+        "emotion": "Delightful",
+        "glasses": "Fiord Zak's glasses with monte carlo glass",
+        "haircut": "Forest green cover for bald",
+        "background": "Worm City delicate muted circle portal background #46"
+    },
+    "name": "Wormshington citizen #16"
 }

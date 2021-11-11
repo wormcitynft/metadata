@@ -1,4 +1,20 @@
 {
     "tokenId": 47,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/47.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Ice",
+        "number": 3,
+        "clothes": "Wedgewood crop top",
+        "emotion": "Resentful",
+        "glasses": "Finn Zak's glasses with steel blue glass",
+        "haircut": "Victoria geek",
+        "necklace": "Hint of yellow necklace with red violet gem",
+        "background": "Worm City exclusive circle portal background #34",
+        "tail tattoo": "Sea green skull",
+        "clothes print": "Cat",
+        "hand accessory": "Fuchsia blue brace"
+    },
+    "name": "Wormshington citizen #47"
 }

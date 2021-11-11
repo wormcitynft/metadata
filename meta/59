@@ -1,4 +1,16 @@
 {
     "tokenId": 59,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/59.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Wind",
+        "number": 10,
+        "clothes": "Studio sailor's shirt",
+        "emotion": "Shell-shocked",
+        "glasses": "Scooter aviator with lily glass",
+        "haircut": "Limeade Blade",
+        "background": "Worm City exclusive diamond portal background #56"
+    },
+    "name": "Wormshington citizen #59"
 }

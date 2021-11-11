@@ -1,4 +1,15 @@
 {
     "tokenId": 80,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/80.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Water",
+        "number": 10,
+        "clothes": "Java shirt",
+        "emotion": "Delightful",
+        "haircut": "Red cover for bald",
+        "background": "Worm City delicate muted background #21"
+    },
+    "name": "Wormshington citizen #80"
 }

@@ -1,4 +1,16 @@
 {
     "tokenId": 24,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/24.png",
+    "attributes": {
+        "sex": "Male",
+        "bird": "Oxford blue pigeon spy",
+        "hands": "Sides",
+        "matter": "Wind",
+        "number": 8,
+        "clothes": "Haiti shirt",
+        "emotion": "High with jacked eye",
+        "haircut": "Fiord hipster",
+        "background": "Worm City exclusive circle portal background #51"
+    },
+    "name": "Wormshington citizen #24"
 }

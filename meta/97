@@ -1,4 +1,16 @@
 {
     "tokenId": 97,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/97.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Cashmere true wireless earbuds",
+        "hands": "Up",
+        "matter": "Earth",
+        "number": 6,
+        "clothes": "Tree poppy t-shirt with skull",
+        "emotion": "Confident",
+        "haircut": "Malachite cover for bald",
+        "background": "Worm City phenomenal background #16"
+    },
+    "name": "Wormshington citizen #97"
 }

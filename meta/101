@@ -1,4 +1,17 @@
 {
     "tokenId": 101,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/101.png",
+    "attributes": {
+        "bag": "Brilliant rose thrown bag",
+        "sex": "Female",
+        "ears": "Heliotrope earring anchor",
+        "hands": "Down",
+        "matter": "Holy",
+        "number": 7,
+        "clothes": "Electric violet t-shirt with feathers",
+        "emotion": "Pleasured with malachite makeup",
+        "headwear": "Seance cylinder with persian pink line",
+        "background": "Worm City delicate muted abstract portal background #11"
+    },
+    "name": "Wormshington citizen #101"
 }

@@ -1,4 +1,20 @@
 {
     "tokenId": 65,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/65.png",
+    "attributes": {
+        "bag": "Sycamore thrown briefcase",
+        "sex": "Female",
+        "hands": "Down",
+        "matter": "Holy",
+        "number": 8,
+        "clothes": "Wafer blouse",
+        "emotion": "Pleasured with tahiti gold makeup",
+        "glasses": "Monza Swimming mask with aqua forest",
+        "haircut": "Buttercup lush hair",
+        "necklace": "Outrageous orange necklace",
+        "background": "Worm City delicate muted abstract portal background #111",
+        "tail tattoo": "Tosca",
+        "tail accessory": "Bittersweet anglerfish"
+    },
+    "name": "Wormshington citizen #65"
 }

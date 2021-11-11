@@ -1,4 +1,15 @@
 {
     "tokenId": 84,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/84.png",
+    "attributes": {
+        "bag": "Conifer thrown bag",
+        "sex": "Female",
+        "mask": "Bitcoin mask",
+        "hands": "One up",
+        "matter": "Holy",
+        "number": 12,
+        "clothes": "Epic golden blouse",
+        "background": "Worm City delicate muted diamond portal background #44"
+    },
+    "name": "Epic worm #84"
 }

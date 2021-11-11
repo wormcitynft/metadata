@@ -1,4 +1,17 @@
 {
     "tokenId": 5,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/5.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "matter": "Fire",
+        "number": 5,
+        "clothes": "Malibu blouse",
+        "emotion": "Pleasured with tahiti gold makeup",
+        "glasses": "Aquamarine 3D glasses",
+        "headwear": "Texas rose cylinder with burnt sienna line",
+        "necklace": "Hint of yellow necklace with hot toddy gem",
+        "background": "Worm City exclusive diamond portal background #65"
+    },
+    "name": "Wormshington citizen #5"
 }

@@ -1,4 +1,18 @@
 {
     "tokenId": 73,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/73.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Ice",
+        "number": 3,
+        "clothes": "Rose shirt",
+        "emotion": "Shocked",
+        "glasses": "Melrose funny eyes",
+        "headwear": "Alto cylinder with dove gray line",
+        "background": "Worm City phenomenal background #29",
+        "tail tattoo": "Mom",
+        "tail accessory": "Dodger blue hook with heathered gray line"
+    },
+    "name": "Wormshington citizen #73"
 }

@@ -1,4 +1,16 @@
 {
     "tokenId": 44,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/44.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Holy",
+        "number": 2,
+        "clothes": "Polo blue suit",
+        "emotion": "Confident with bright turquoise makeup",
+        "glasses": "Pomegranate aviator with rolling stone glass",
+        "headwear": "Cardinal pink winter hat",
+        "background": "Worm City delicate muted abstract portal background #43"
+    },
+    "name": "Wormshington citizen #44"
 }

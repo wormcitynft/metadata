@@ -1,4 +1,18 @@
 {
     "tokenId": 90,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/90.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "matter": "Wind",
+        "number": 7,
+        "clothes": "Thunder crop top",
+        "emotion": "Rickie with lemon makeup",
+        "headwear": "Reef mind control headset",
+        "necklace": "Rajah necklace with cerise red gem",
+        "background": "Worm City atmospheric cold background #166",
+        "tail tattoo": "Tapestry skull",
+        "clothes print": "Banana"
+    },
+    "name": "Wormshington citizen #90"
 }

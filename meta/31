@@ -1,4 +1,16 @@
 {
     "tokenId": 31,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/31.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "matter": "Dark",
+        "number": 3,
+        "clothes": "Dodger blue blouse",
+        "emotion": "Resentful",
+        "headwear": "Thunderbird winter hat",
+        "background": "Worm City delicate muted circle portal background #3",
+        "tail tattoo": "Saber"
+    },
+    "name": "Wormshington citizen #31"
 }

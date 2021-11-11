@@ -1,4 +1,18 @@
 {
     "tokenId": 55,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/55.png",
+    "attributes": {
+        "sex": "Female",
+        "ears": "Torch red earrings",
+        "hands": "Down",
+        "matter": "Holy",
+        "number": 8,
+        "clothes": "Tapestry blouse",
+        "emotion": "Resentful",
+        "headwear": "Golden fizz and royal blue cap",
+        "necklace": "Navy blue necklace",
+        "background": "Worm City exclusive diamond portal background #78",
+        "tail accessory": "River bed anchor"
+    },
+    "name": "Wormshington citizen #55"
 }

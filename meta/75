@@ -1,4 +1,17 @@
 {
     "tokenId": 75,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/75.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Water",
+        "number": 2,
+        "clothes": "Dodger blue blouse",
+        "emotion": "High with buttercup makeup",
+        "headwear": "Atlantis and anakiwa winter hat with pompom",
+        "necklace": "Curious blue necklace",
+        "background": "Worm City exclusive diamond portal background #66",
+        "tail tattoo": "Grey skull"
+    },
+    "name": "Wormshington citizen #75"
 }

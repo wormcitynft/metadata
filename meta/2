@@ -1,4 +1,16 @@
 {
     "tokenId": 2,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/2.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "matter": "Holy",
+        "number": 4,
+        "clothes": "Deep cerulean t-shirt with skull",
+        "emotion": "High with jacked eye",
+        "haircut": "Portage hipster",
+        "background": "Worm City atmospheric cold background #137",
+        "tail tattoo": "Tapestry skull"
+    },
+    "name": "Wormshington citizen #2"
 }

@@ -1,4 +1,19 @@
 {
     "tokenId": 89,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/89.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "matter": "Earth",
+        "number": 5,
+        "clothes": "Camouflage green crop top",
+        "emotion": "High",
+        "glasses": "Comet aviator with paradiso glass",
+        "headwear": "Thunderbird cylinder with amaranth line",
+        "necklace": "Rajah necklace with cerise red gem",
+        "background": "Worm City exclusive circle portal background #2",
+        "hand accessory": "Blue ribbon brace",
+        "tail accessory": "River bed anchor"
+    },
+    "name": "Wormshington citizen #89"
 }

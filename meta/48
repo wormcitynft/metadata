@@ -1,4 +1,15 @@
 {
     "tokenId": 48,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/48.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Lightning",
+        "number": 11,
+        "clothes": "Pampas kimono",
+        "emotion": "Weasel",
+        "haircut": "Epic curious blue hipster",
+        "background": "Worm City exclusive circle portal background #22"
+    },
+    "name": "Epic worm #48"
 }

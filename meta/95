@@ -1,4 +1,17 @@
 {
     "tokenId": 95,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/95.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Electric violet true wireless earbuds",
+        "coins": "Silver eth coins",
+        "hands": "One up",
+        "matter": "Lightning",
+        "number": 9,
+        "emotion": "Raunchy",
+        "headwear": "Rouge, turbo, jungle green sombrero",
+        "background": "Worm City classic background #126",
+        "body tattoo": "Millbrook"
+    },
+    "name": "Wormshington citizen #95"
 }

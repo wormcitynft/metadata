@@ -1,4 +1,17 @@
 {
     "tokenId": 0,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/0.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "matter": "Earth",
+        "number": 4,
+        "clothes": "Shark suit",
+        "emotion": "Resentful",
+        "headwear": "Epic lightning yellow winter hat",
+        "background": "Worm City phenomenal background #2",
+        "tail tattoo": "Ferra skull",
+        "tail accessory": "Amethyst fish"
+    },
+    "name": "Epic worm #0"
 }

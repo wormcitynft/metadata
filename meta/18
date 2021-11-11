@@ -1,4 +1,17 @@
 {
     "tokenId": 18,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/18.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Fire",
+        "number": 4,
+        "clothes": "Razzmatazz nightie",
+        "emotion": "Shell-shocked",
+        "haircut": "Apple punk",
+        "necklace": "Hint of yellow necklace with purple gem",
+        "background": "Worm City exclusive circle portal background #164",
+        "hand accessory": "Merlin smart watches with thunderbird strap"
+    },
+    "name": "Wormshington citizen #18"
 }

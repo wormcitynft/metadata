@@ -1,4 +1,15 @@
 {
     "tokenId": 94,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/94.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "matter": "Wind",
+        "number": 1,
+        "clothes": "Azure radiance t-shirt",
+        "emotion": "Delightful",
+        "haircut": "Sushi Mr Chong",
+        "background": "Worm City phenomenal background #32"
+    },
+    "name": "Wormshington citizen #94"
 }

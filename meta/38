@@ -1,4 +1,17 @@
 {
     "tokenId": 38,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/38.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Earth",
+        "number": 13,
+        "clothes": "Electric violet t-shirt with skull",
+        "emotion": "Weasel with jacked eye",
+        "glasses": "Toledo pince-nez",
+        "headwear": "Spindle panama",
+        "background": "Worm City exclusive diamond portal background #9",
+        "hand accessory": "Merlin smart watches with ironside gray strap"
+    },
+    "name": "Wormshington citizen #38"
 }

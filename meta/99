@@ -1,4 +1,16 @@
 {
     "tokenId": 99,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/99.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Golden fizz true wireless earbuds",
+        "hands": "One up",
+        "matter": "Fire",
+        "number": 12,
+        "clothes": "Hot cinnamon sailor's shirt",
+        "emotion": "Shell-shocked",
+        "haircut": "Lily geek",
+        "background": "Worm City delicate muted circle portal background #98"
+    },
+    "name": "Wormshington citizen #99"
 }

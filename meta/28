@@ -1,4 +1,18 @@
 {
     "tokenId": 28,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/28.png",
+    "attributes": {
+        "sex": "Male",
+        "bird": "Apricot pigeon spy",
+        "hands": "Sides",
+        "matter": "Fire",
+        "number": 6,
+        "clothes": "Tropical blue sailor's shirt",
+        "emotion": "Confident",
+        "glasses": "Jaffa 3D glasses",
+        "headwear": "Ironside gray eight-blade",
+        "background": "Worm City delicate muted background #20",
+        "tail tattoo": "Fern frond love"
+    },
+    "name": "Wormshington citizen #28"
 }

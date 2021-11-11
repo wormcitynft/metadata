@@ -1,4 +1,16 @@
 {
     "tokenId": 36,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/36.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Razzle dazzle rose true wireless earbuds",
+        "hands": "Up",
+        "matter": "Lightning",
+        "number": 2,
+        "clothes": "Pompadour 404 ERROR t-shirt",
+        "emotion": "Weasel",
+        "headwear": "Riptide winter hat",
+        "background": "Worm City delicate muted circle portal background #49"
+    },
+    "name": "Wormshington citizen #36"
 }

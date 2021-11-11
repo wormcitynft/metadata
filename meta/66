@@ -1,4 +1,18 @@
 {
     "tokenId": 66,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/66.png",
+    "attributes": {
+        "bag": "Tradewind thrown briefcase",
+        "sex": "Female",
+        "hands": "Down",
+        "matter": "Lightning",
+        "number": 4,
+        "clothes": "Melanie crop top",
+        "emotion": "Rickie with magenta \/ fuchsia makeup",
+        "glasses": "Hibiscus aviator with medium purple glass",
+        "haircut": "Lochmara double trouble",
+        "necklace": "Hint of yellow necklace with bermuda gem",
+        "background": "Worm City exclusive circle portal background #84"
+    },
+    "name": "Wormshington citizen #66"
 }

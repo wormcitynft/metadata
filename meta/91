@@ -1,4 +1,17 @@
 {
     "tokenId": 91,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/91.png",
+    "attributes": {
+        "bag": "Mauve thrown bag",
+        "sex": "Female",
+        "hands": "Up",
+        "matter": "Water",
+        "number": 7,
+        "clothes": "Martinique crop top",
+        "emotion": "Pleasured with tahiti gold makeup",
+        "haircut": "Apple ponytail",
+        "background": "Worm City exclusive diamond portal background #59",
+        "hand accessory": "Pacific blue brace"
+    },
+    "name": "Wormshington citizen #91"
 }

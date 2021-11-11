@@ -1,4 +1,14 @@
 {
     "tokenId": 100,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/100.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Golden fizz true wireless earbuds",
+        "hands": "One up",
+        "matter": "Lightning",
+        "number": 4,
+        "emotion": "High with jacked eye",
+        "background": "Worm City delicate muted diamond portal background #123"
+    },
+    "name": "Wormshington citizen #100"
 }

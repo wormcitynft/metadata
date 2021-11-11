@@ -1,4 +1,18 @@
 {
     "tokenId": 30,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/30.png",
+    "attributes": {
+        "sex": "Female",
+        "ears": "Green haze earring cross",
+        "hands": "Sides",
+        "matter": "Water",
+        "number": 11,
+        "clothes": "Violet red dress",
+        "emotion": "Rickie",
+        "headwear": "Cape cod stetson with shamrock line",
+        "necklace": "Hint of yellow necklace with cerise red gem",
+        "background": "Worm City atmospheric cold background #157",
+        "tail tattoo": "East Bay"
+    },
+    "name": "Wormshington citizen #30"
 }

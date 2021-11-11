@@ -1,4 +1,18 @@
 {
     "tokenId": 53,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/53.png",
+    "attributes": {
+        "sex": "Male",
+        "bird": "Ming screaming cockatoo",
+        "hands": "Down",
+        "matter": "Earth",
+        "number": 4,
+        "clothes": "Flamingo t-shirt with skull",
+        "emotion": "Angry with jacked eye",
+        "glasses": "Breaker bay monocle",
+        "haircut": "manatee punk",
+        "background": "Worm City exclusive diamond portal background #154",
+        "tail tattoo": "Astronaut love"
+    },
+    "name": "Wormshington citizen #53"
 }

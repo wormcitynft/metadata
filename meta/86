@@ -1,4 +1,18 @@
 {
     "tokenId": 86,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/86.png",
+    "attributes": {
+        "sex": "Male",
+        "bird": "Monte carlo screaming gull",
+        "hands": "One up",
+        "matter": "Dark",
+        "number": 5,
+        "clothes": "Chartreuse yellow t-shirt",
+        "emotion": "Shocked with jacked eye",
+        "haircut": "Ironside gray hipster",
+        "background": "Worm City exclusive diamond portal background #87",
+        "tail tattoo": "Millbrook love",
+        "clothes print": "Heart"
+    },
+    "name": "Wormshington citizen #86"
 }

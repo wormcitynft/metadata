@@ -1,4 +1,16 @@
 {
     "tokenId": 102,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/102.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Lightning",
+        "number": 10,
+        "clothes": "Hopbush crop top",
+        "emotion": "Resentful",
+        "headwear": "Junior lieutenant congo brown military helmet",
+        "background": "Worm City delicate muted diamond portal background #36",
+        "clothes print": "Skull"
+    },
+    "name": "Wormshington citizen #102"
 }

@@ -1,4 +1,17 @@
 {
     "tokenId": 8,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/8.png",
+    "attributes": {
+        "sex": "Male",
+        "bird": "Denim screaming gull",
+        "hands": "Sides",
+        "matter": "Dark",
+        "number": 8,
+        "clothes": "Red orange t-shirt",
+        "emotion": "Rick",
+        "glasses": "Picton blue aviator with fountain blue glass",
+        "haircut": "Cornflower blue disheveled",
+        "background": "Worm City exclusive circle portal background #161"
+    },
+    "name": "Wormshington citizen #8"
 }

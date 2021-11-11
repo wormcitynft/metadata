@@ -1,4 +1,19 @@
 {
     "tokenId": 50,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/50.png",
+    "attributes": {
+        "sex": "Female",
+        "bird": "Eastern blue screaming cockatoo",
+        "ears": "Deco earring balls",
+        "hands": "One up",
+        "matter": "Earth",
+        "number": 12,
+        "clothes": "Tree poppy nightie",
+        "emotion": "Enduring with dark electric violet makeup",
+        "glasses": "Hot cinnamon aviator with rio grande glass",
+        "haircut": "Turquoise blue hipster",
+        "necklace": "Hint of yellow necklace with bermuda gem",
+        "background": "Worm City delicate muted abstract portal background #51"
+    },
+    "name": "Wormshington citizen #50"
 }

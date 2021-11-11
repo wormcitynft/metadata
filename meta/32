@@ -1,4 +1,18 @@
 {
     "tokenId": 32,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/32.png",
+    "attributes": {
+        "bag": "Bird flower thrown bag",
+        "sex": "Male",
+        "hands": "Up",
+        "matter": "Wind",
+        "number": 3,
+        "clothes": "Di serria t-shirt",
+        "emotion": "Shocked with jacked eye",
+        "glasses": "Mountain meadow monocle",
+        "haircut": "del rio punk",
+        "background": "Worm City exclusive circle portal background #86",
+        "clothes print": "Rocket"
+    },
+    "name": "Wormshington citizen #32"
 }

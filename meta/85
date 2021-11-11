@@ -1,4 +1,17 @@
 {
     "tokenId": 85,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/85.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "matter": "Holy",
+        "number": 7,
+        "clothes": "Steel blue crop top",
+        "emotion": "Skeptical with blue ribbon makeup",
+        "glasses": "Bay of many aviator with kashmir blue glass",
+        "haircut": "Daisy bush punk",
+        "necklace": "Ripe lemon necklace with hot toddy gem",
+        "background": "Worm City exclusive circle portal background #46"
+    },
+    "name": "Wormshington citizen #85"
 }

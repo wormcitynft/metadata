@@ -1,4 +1,15 @@
 {
     "tokenId": 72,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/72.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "matter": "Wind",
+        "number": 6,
+        "clothes": "Link water dress",
+        "emotion": "Enduring",
+        "haircut": "Picton blue hipster",
+        "background": "Worm City delicate muted background #25"
+    },
+    "name": "Wormshington citizen #72"
 }

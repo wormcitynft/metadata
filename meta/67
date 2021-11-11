@@ -1,4 +1,17 @@
 {
     "tokenId": 67,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/67.png",
+    "attributes": {
+        "sex": "Male",
+        "ears": "Azure radiance true wireless earbuds",
+        "hands": "Up",
+        "matter": "Holy",
+        "number": 3,
+        "clothes": "Bossanova t-shirt",
+        "emotion": "Innocent",
+        "glasses": "Chambray Zak's glasses with smalt blue glass",
+        "headwear": "Red orange winter hat",
+        "background": "Worm City exclusive diamond portal background #104"
+    },
+    "name": "Wormshington citizen #67"
 }

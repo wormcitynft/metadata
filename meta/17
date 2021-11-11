@@ -1,4 +1,16 @@
 {
     "tokenId": 17,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/17.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "matter": "Lightning",
+        "number": 5,
+        "clothes": "Gum leaf suit",
+        "emotion": "Pleasured",
+        "glasses": "Lochmara aviator with purple glass",
+        "headwear": "Pear cap",
+        "background": "Worm City delicate muted circle portal background #115"
+    },
+    "name": "Wormshington citizen #17"
 }

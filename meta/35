@@ -1,4 +1,16 @@
 {
     "tokenId": 35,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/35.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "matter": "Earth",
+        "number": 9,
+        "clothes": "Big stone t-shirt",
+        "emotion": "Weasel",
+        "haircut": "Bossanova Rock n' Roll",
+        "background": "Worm City classic background #31",
+        "tail accessory": "Alizarin crimson anchor"
+    },
+    "name": "Wormshington citizen #35"
 }

@@ -1,4 +1,15 @@
 {
     "tokenId": 93,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/93.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Water",
+        "number": 6,
+        "clothes": "Deep blush t-shirt",
+        "emotion": "Intrigued",
+        "headwear": "Hit pink panama",
+        "background": "Worm City delicate muted background #27"
+    },
+    "name": "Wormshington citizen #93"
 }

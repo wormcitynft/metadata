@@ -1,4 +1,16 @@
 {
     "tokenId": 74,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/74.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "matter": "Ice",
+        "number": 10,
+        "clothes": "Bright sun crop top",
+        "emotion": "Pleasured with bright turquoise makeup",
+        "headwear": "Fuscous gray pirate bandage",
+        "background": "Worm City classic background #56",
+        "tail tattoo": "Grey skull"
+    },
+    "name": "Wormshington citizen #74"
 }
