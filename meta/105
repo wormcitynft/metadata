@@ -1,4 +1,16 @@
 {
     "tokenId": 105,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/105.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "matter": "Dark",
+        "number": 9,
+        "clothes": "Viridian t-shirt with skull",
+        "emotion": "Shell-shocked",
+        "haircut": "Bon jour cover for bald",
+        "background": "Worm City atmospheric cold background #140",
+        "tail accessory": "Bittersweet anglerfish"
+    },
+    "name": "Wormshington citizen #105"
 }

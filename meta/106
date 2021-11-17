@@ -1,4 +1,17 @@
 {
     "tokenId": 106,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/106.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "matter": "Lightning",
+        "number": 6,
+        "clothes": "Gamboge crop top",
+        "emotion": "Confident with light bright turquoise makeup",
+        "glasses": "Amethyst aviator with cutty sark glass",
+        "haircut": "Half baked Leia",
+        "necklace": "Perfume necklace with royal blue gem",
+        "background": "Worm City atmospheric cold background #99"
+    },
+    "name": "Wormshington citizen #106"
 }
