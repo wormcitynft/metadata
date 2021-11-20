@@ -1,4 +1,19 @@
 {
     "tokenId": 109,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/109.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "matter": "Earth",
+        "number": 13,
+        "clothes": "Seance dress",
+        "emotion": "Confident with shocking pink makeup",
+        "glasses": "Jelly bean funny eyes",
+        "haircut": "Pacific blue lush hair",
+        "necklace": "Hint of yellow necklace with bermuda gem",
+        "background": "Worm City exclusive circle portal background #146",
+        "tail tattoo": "Sea green skull",
+        "hand accessory": "Fern brace"
+    },
+    "name": "Wormshington citizen #109"
 }

@@ -1,4 +1,17 @@
 {
     "tokenId": 108,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/108.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "matter": "Holy",
+        "number": 10,
+        "clothes": "Flamingo t-shirt with skull",
+        "emotion": "Envious",
+        "glasses": "Lucky point 3D glasses",
+        "headwear": "Keppel, harlequin, harlequin sombrero",
+        "background": "Worm City delicate muted diamond portal background #56",
+        "tail tattoo": "Burning heart"
+    },
+    "name": "Wormshington citizen #108"
 }

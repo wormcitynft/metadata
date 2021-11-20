@@ -1,4 +1,16 @@
 {
     "tokenId": 110,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/110.png",
+    "attributes": {
+        "sex": "Female",
+        "bird": "Link water morning cock",
+        "hands": "One up",
+        "matter": "Lightning",
+        "number": 11,
+        "clothes": "Rose sailor's shirt with white stripes",
+        "emotion": "Weasel",
+        "haircut": "Bright green punk",
+        "background": "Worm City atmospheric cold background #120"
+    },
+    "name": "Wormshington citizen #110"
 }
