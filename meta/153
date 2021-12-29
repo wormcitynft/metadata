@@ -1,4 +1,16 @@
 {
     "tokenId": 153,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/153.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 5,
+        "matter": "Ice",
+        "background": "Worm City delicate muted diamond portal background #96",
+        "clothes": "Pharlap t-shirt with skull",
+        "haircut": "Regent st blue hipster",
+        "emotion": "Envious with jacked eye",
+        "ears": "Double spanish white true wireless earbuds"
+    },
+    "name": "Wormshington citizen #153"
 }

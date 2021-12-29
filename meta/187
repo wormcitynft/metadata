@@ -1,4 +1,17 @@
 {
     "tokenId": 187,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/187.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 5,
+        "matter": "Wind",
+        "background": "Worm City delicate muted abstract portal background #130",
+        "clothes": "Ecstasy crop top",
+        "haircut": "Amaranth geek",
+        "emotion": "Pleasured with shocking pink makeup",
+        "glasses": "Java 3D glasses",
+        "tail accessory": "River bed anchor"
+    },
+    "name": "Wormshington citizen #187"
 }

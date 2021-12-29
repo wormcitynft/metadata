@@ -1,4 +1,18 @@
 {
     "tokenId": 125,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/125.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 12,
+        "matter": "Fire",
+        "background": "Worm City classic background #160",
+        "clothes": "Temptress dress",
+        "necklace": "Ripe lemon necklace with christi gem",
+        "headwear": "Brilliant rose construction helmet",
+        "emotion": "Intrigued",
+        "glasses": "Salmon 3D glasses",
+        "tail accessory": "Cannon pink hook with blue violet line"
+    },
+    "name": "Wormshington citizen #125"
 }

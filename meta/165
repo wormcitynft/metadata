@@ -1,4 +1,18 @@
 {
     "tokenId": 165,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/165.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 11,
+        "matter": "Ice",
+        "background": "Worm City classic background #103",
+        "tail tattoo": "Tosca",
+        "clothes": "Electric violet t-shirt with skull",
+        "haircut": "manatee punk",
+        "emotion": "Shell-shocked with jacked eye",
+        "glasses": "Comet monocle",
+        "hand accessory": "Merlin smart watches with ironside gray strap"
+    },
+    "name": "Wormshington citizen #165"
 }

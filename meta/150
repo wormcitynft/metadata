@@ -1,4 +1,17 @@
 {
     "tokenId": 150,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/150.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 1,
+        "matter": "Water",
+        "background": "Worm City exclusive circle portal background #105",
+        "clothes": "Aqua forest t-shirt",
+        "headwear": "Peru tan and jaffa cap",
+        "emotion": "Angry",
+        "glasses": "Purple pizzazz 3D glasses",
+        "hand accessory": "Fuchsia blue brace"
+    },
+    "name": "Wormshington citizen #150"
 }

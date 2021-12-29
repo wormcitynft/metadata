@@ -1,4 +1,16 @@
 {
     "tokenId": 177,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/177.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 1,
+        "matter": "Water",
+        "background": "Worm City exclusive diamond portal background #163",
+        "clothes": "Bossanova t-shirt",
+        "clothes print": "Rocket",
+        "haircut": "Green mist Rock n' Roll",
+        "emotion": "Lustful"
+    },
+    "name": "Wormshington citizen #177"
 }

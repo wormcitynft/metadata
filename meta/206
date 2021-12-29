@@ -1,4 +1,18 @@
 {
     "tokenId": 206,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/206.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 8,
+        "matter": "Fire",
+        "background": "Worm City delicate muted circle portal background #126",
+        "tail tattoo": "Millbrook skull",
+        "clothes": "Ironside gray t-shirt with skull",
+        "haircut": "Forest green cover for bald",
+        "emotion": "Angry with jacked eye",
+        "coins": "Silver bitcoin",
+        "tail accessory": "Scarlet anglerfish"
+    },
+    "name": "Wormshington citizen #206"
 }

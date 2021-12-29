@@ -1,4 +1,15 @@
 {
     "tokenId": 163,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/163.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 7,
+        "matter": "Earth",
+        "background": "Worm City delicate muted background #64",
+        "clothes": "Outer space 404 ERROR t-shirt",
+        "haircut": "Carnation geek",
+        "emotion": "High"
+    },
+    "name": "Wormshington citizen #163"
 }

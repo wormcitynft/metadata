@@ -1,4 +1,17 @@
 {
     "tokenId": 203,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/203.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 5,
+        "matter": "Water",
+        "background": "Worm City delicate muted circle portal background #24",
+        "tail tattoo": "Tawny port love",
+        "clothes": "Flamingo t-shirt with skull",
+        "headwear": "Golden fizz cap",
+        "emotion": "Angry",
+        "ears": "Dodger blue true wireless earbuds"
+    },
+    "name": "Wormshington citizen #203"
 }

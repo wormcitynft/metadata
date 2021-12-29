@@ -1,4 +1,18 @@
 {
     "tokenId": 213,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/213.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 4,
+        "matter": "Fire",
+        "background": "Worm City delicate muted background #116",
+        "clothes": "Electric violet 404 ERROR t-shirt",
+        "emotion": "Angry with jacked eye",
+        "glasses": "Finn monocle",
+        "hand accessory": "Merlin smart watches with chestnut rose strap",
+        "bird": "Picton blue screaming cockatoo",
+        "headwear": "Shocking pink astronaut helmet"
+    },
+    "name": "Wormshington citizen #213"
 }

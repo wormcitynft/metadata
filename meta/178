@@ -1,4 +1,16 @@
 {
     "tokenId": 178,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/178.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 4,
+        "matter": "Dark",
+        "background": "Worm City delicate muted diamond portal background #79",
+        "clothes": "Turquoise sailor's shirt",
+        "headwear": "Shakespeare winter hat with pompom",
+        "emotion": "Intrigued",
+        "glasses": "Biloba flower aviator with seance glass"
+    },
+    "name": "Wormshington citizen #178"
 }

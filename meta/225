@@ -1,4 +1,17 @@
 {
     "tokenId": 225,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/225.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 11,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted abstract portal background #18",
+        "clothes": "Thunderbird t-shirt with skull",
+        "headwear": "Rainbow and coral cap",
+        "emotion": "Lustful",
+        "glasses": "Casablanca aviator with jungle green glass",
+        "tail accessory": "Heliotrope hook with conifer line"
+    },
+    "name": "Wormshington citizen #225"
 }

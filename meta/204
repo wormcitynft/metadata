@@ -1,4 +1,19 @@
 {
     "tokenId": 204,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/204.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 2,
+        "matter": "Dark",
+        "background": "Worm City exclusive circle portal background #160",
+        "tail tattoo": "Violet Eggplant",
+        "clothes": "Scarlet t-shirt with gradient",
+        "clothes print": "Whale",
+        "haircut": "Violet cover for bald",
+        "emotion": "Delightful with jacked eye",
+        "glasses": "Turquoise blue Zak's glasses with shark glass",
+        "ears": "Froly true wireless earbuds"
+    },
+    "name": "Wormshington citizen #204"
 }

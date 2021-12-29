@@ -1,4 +1,16 @@
 {
     "tokenId": 141,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/141.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 3,
+        "matter": "Dark",
+        "background": "Worm City delicate muted circle portal background #35",
+        "clothes": "Pickled bluewood t-shirt with skull",
+        "haircut": "cloud burst punk",
+        "emotion": "Shocked",
+        "ears": "Aquamarine true wireless earbuds"
+    },
+    "name": "Wormshington citizen #141"
 }

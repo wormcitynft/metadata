@@ -1,4 +1,17 @@
 {
     "tokenId": 232,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/232.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 5,
+        "matter": "Earth",
+        "background": "Worm City exclusive circle portal background #50",
+        "clothes": "Fiord sailor's shirt",
+        "haircut": "java punk",
+        "emotion": "Angry",
+        "hand accessory": "White smart watches with torch red strap",
+        "bag": "Millbrook thrown briefcase"
+    },
+    "name": "Wormshington citizen #232"
 }

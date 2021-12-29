@@ -1,4 +1,15 @@
 {
     "tokenId": 202,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/202.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 13,
+        "matter": "Ice",
+        "background": "Worm City exclusive diamond portal background #34",
+        "clothes": "Brilliant rose suit",
+        "haircut": "Texas rose Mr Chong",
+        "emotion": "High"
+    },
+    "name": "Wormshington citizen #202"
 }

@@ -1,4 +1,17 @@
 {
     "tokenId": 231,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/231.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 11,
+        "matter": "Ice",
+        "background": "Worm City delicate muted background #59",
+        "clothes": "Big stone t-shirt",
+        "haircut": "Celery Rock n' Roll",
+        "emotion": "Envious with jacked eye",
+        "glasses": "Calypso Zak's glasses with fiord glass",
+        "tail accessory": "Chambray anchor"
+    },
+    "name": "Wormshington citizen #231"
 }

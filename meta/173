@@ -1,4 +1,19 @@
 {
     "tokenId": 173,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/173.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 5,
+        "matter": "Earth",
+        "background": "Worm City delicate muted abstract portal background #93",
+        "tail tattoo": "Tawny port love",
+        "clothes": "Cold purple dress",
+        "necklace": "Navy blue necklace",
+        "headwear": "Astral, caribbean green, governor bay sombrero",
+        "emotion": "High with cerulean makeup",
+        "glasses": "Shadow pince-nez",
+        "bag": "Mauve thrown bag"
+    },
+    "name": "Wormshington citizen #173"
 }

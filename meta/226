@@ -1,4 +1,17 @@
 {
     "tokenId": 226,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/226.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 9,
+        "matter": "Water",
+        "background": "Worm City delicate muted diamond portal background #59",
+        "body tattoo": "Violet Eggplant",
+        "haircut": "Wormy twins",
+        "emotion": "Angry",
+        "glasses": "Biloba flower aviator with danube glass",
+        "bird": "Sunset orange screaming gull"
+    },
+    "name": "Wormshington citizen #226"
 }

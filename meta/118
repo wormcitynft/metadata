@@ -1,4 +1,17 @@
 {
     "tokenId": 118,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/118.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 9,
+        "matter": "Holy",
+        "background": "Worm City delicate muted diamond portal background #31",
+        "tail tattoo": "Camelot skull",
+        "clothes": "Rose 404 ERROR t-shirt",
+        "haircut": "Martinique hipster",
+        "emotion": "Enduring",
+        "glasses": "Dolphin funny eyes"
+    },
+    "name": "Wormshington citizen #118"
 }

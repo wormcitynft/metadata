@@ -1,4 +1,17 @@
 {
     "tokenId": 114,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/114.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 13,
+        "matter": "Fire",
+        "background": "Worm City exclusive circle portal background #84",
+        "clothes": "Spindle swimsuit",
+        "haircut": "Daisy bush punk",
+        "emotion": "High with hollywood cerise makeup",
+        "glasses": "Hawkes blue 3D glasses",
+        "bird": "Cornflower blue morning cock"
+    },
+    "name": "Wormshington citizen #114"
 }

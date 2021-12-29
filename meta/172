@@ -1,4 +1,17 @@
 {
     "tokenId": 172,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/172.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 12,
+        "matter": "Lightning",
+        "background": "Worm City exclusive diamond portal background #7",
+        "clothes": "Blue bayoux sailor's shirt",
+        "haircut": "Medium purple geek",
+        "emotion": "Intrigued",
+        "glasses": "Electric violet aviator with science blue glass",
+        "tail accessory": "Earls green hook with medium purple line"
+    },
+    "name": "Wormshington citizen #172"
 }

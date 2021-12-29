@@ -1,4 +1,16 @@
 {
     "tokenId": 133,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/133.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 1,
+        "matter": "Ice",
+        "background": "Worm City exclusive circle portal background #135",
+        "clothes": "Mountain meadow 404 ERROR t-shirt",
+        "haircut": "pastel green man bun",
+        "emotion": "High",
+        "glasses": "Faded jade Zak's glasses with cerise red glass"
+    },
+    "name": "Wormshington citizen #133"
 }

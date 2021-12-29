@@ -1,4 +1,16 @@
 {
     "tokenId": 212,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/212.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 10,
+        "matter": "Holy",
+        "background": "Worm City delicate muted circle portal background #51",
+        "clothes": "Snuff crop top",
+        "headwear": "Sapphire, caribbean green, governor bay sombrero",
+        "emotion": "Innocent",
+        "hand accessory": "Gorse brace"
+    },
+    "name": "Wormshington citizen #212"
 }

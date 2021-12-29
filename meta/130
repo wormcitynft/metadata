@@ -1,4 +1,16 @@
 {
     "tokenId": 130,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/130.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 13,
+        "matter": "Fire",
+        "background": "Worm City classic background #55",
+        "clothes": "Hibiscus t-shirt",
+        "headwear": "Shamrock construction helmet",
+        "emotion": "Skeptical with blue ribbon makeup",
+        "ears": "Inch worm earring balls"
+    },
+    "name": "Wormshington citizen #130"
 }

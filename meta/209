@@ -1,4 +1,17 @@
 {
     "tokenId": 209,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/209.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 1,
+        "matter": "Water",
+        "background": "Worm City classic background #124",
+        "tail tattoo": "Millbrook skull",
+        "clothes": "Venice blue 404 ERROR t-shirt",
+        "headwear": "Vivid violet, hollywood cerise, vivid violet sombrero",
+        "emotion": "Hopeful with jacked eye",
+        "glasses": "Mantis aviator with cutty sark glass"
+    },
+    "name": "Wormshington citizen #209"
 }

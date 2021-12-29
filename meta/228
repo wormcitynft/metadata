@@ -1,4 +1,15 @@
 {
     "tokenId": 228,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/228.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 10,
+        "matter": "Fire",
+        "background": "Worm City classic background #14",
+        "haircut": "Calico Rock n' Roll",
+        "emotion": "Innocent",
+        "tail accessory": "Fiord hook with smalt blue line"
+    },
+    "name": "Wormshington citizen #228"
 }

@@ -1,4 +1,16 @@
 {
     "tokenId": 140,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/140.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 2,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted background #60",
+        "clothes": "Venice blue 404 ERROR t-shirt",
+        "headwear": "Atlantis winter hat with pompom",
+        "emotion": "Shocked with jacked eye",
+        "bag": "Calypso thrown briefcase"
+    },
+    "name": "Wormshington citizen #140"
 }

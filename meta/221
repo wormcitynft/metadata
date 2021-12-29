@@ -1,4 +1,15 @@
 {
     "tokenId": 221,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/221.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 8,
+        "matter": "Ice",
+        "background": "Worm City atmospheric cold background #37",
+        "clothes": "Radical red sailor's shirt",
+        "haircut": "torch red man bun",
+        "emotion": "Innocent"
+    },
+    "name": "Wormshington citizen #221"
 }

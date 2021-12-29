@@ -1,4 +1,16 @@
 {
     "tokenId": 113,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/113.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 3,
+        "matter": "Dark",
+        "background": "Worm City exclusive circle portal background #110",
+        "clothes": "Tropical blue t-shirt",
+        "haircut": "Cardinal pink geek",
+        "emotion": "Enduring with jacked eye",
+        "tail accessory": "Dodger blue hook with heathered gray line"
+    },
+    "name": "Wormshington citizen #113"
 }

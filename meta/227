@@ -1,4 +1,16 @@
 {
     "tokenId": 227,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/227.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 4,
+        "matter": "Holy",
+        "background": "Worm City delicate muted circle portal background #52",
+        "tail tattoo": "Saber",
+        "clothes": "Blue bayoux suit",
+        "haircut": "Conifer Blade",
+        "emotion": "Shocked with jacked eye"
+    },
+    "name": "Wormshington citizen #227"
 }

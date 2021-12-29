@@ -1,4 +1,16 @@
 {
     "tokenId": 161,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/161.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 10,
+        "matter": "Earth",
+        "background": "Worm City phenomenal background #25",
+        "clothes": "Thunderbird t-shirt",
+        "haircut": "Thunderbird Mr Chong",
+        "emotion": "Shell-shocked",
+        "ears": "Froly true wireless earbuds"
+    },
+    "name": "Wormshington citizen #161"
 }

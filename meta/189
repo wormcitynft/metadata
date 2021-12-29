@@ -1,4 +1,16 @@
 {
     "tokenId": 189,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/189.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 3,
+        "matter": "Ice",
+        "background": "Worm City atmospheric cold background #12",
+        "clothes": "Flirt 404 ERROR t-shirt",
+        "emotion": "Hopeful",
+        "glasses": "Jacarta Zak's glasses with glacier glass",
+        "ears": "Double spanish white true wireless earbuds"
+    },
+    "name": "Wormshington citizen #189"
 }

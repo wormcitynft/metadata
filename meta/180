@@ -1,4 +1,17 @@
 {
     "tokenId": 180,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/180.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 1,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted background #85",
+        "tail tattoo": "Tapestry skull",
+        "clothes": "Sandrift suit",
+        "haircut": "curious blue punk",
+        "emotion": "Resentful with jacked eye",
+        "glasses": "Pine green pince-nez"
+    },
+    "name": "Wormshington citizen #180"
 }

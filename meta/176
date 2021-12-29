@@ -1,4 +1,17 @@
 {
     "tokenId": 176,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/176.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 9,
+        "matter": "Earth",
+        "background": "Worm City delicate muted diamond portal background #76",
+        "clothes": "Blush pink sailor's shirt",
+        "haircut": "Madang Blade",
+        "emotion": "Raunchy",
+        "glasses": "Comet monocle",
+        "tail accessory": "Rose bud anglerfish"
+    },
+    "name": "Wormshington citizen #176"
 }

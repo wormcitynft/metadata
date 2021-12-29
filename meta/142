@@ -1,4 +1,16 @@
 {
     "tokenId": 142,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/142.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 7,
+        "matter": "Earth",
+        "background": "Worm City delicate muted background #113",
+        "clothes": "Blue chill suit",
+        "headwear": "Golden fizz and royal blue cap",
+        "emotion": "Rickie with bright turquoise makeup",
+        "glasses": "Redwood Zak's glasses with shamrock glass"
+    },
+    "name": "Wormshington citizen #142"
 }

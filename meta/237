@@ -1,4 +1,14 @@
 {
     "tokenId": 237,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/237.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 1,
+        "matter": "Earth",
+        "background": "Worm City classic background #131",
+        "haircut": "carnation punk",
+        "emotion": "Hopeful with jacked eye"
+    },
+    "name": "Wormshington citizen #237"
 }

@@ -1,4 +1,15 @@
 {
     "tokenId": 210,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/210.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 9,
+        "matter": "Ice",
+        "background": "Worm City exclusive diamond portal background #54",
+        "clothes": "Rose sailor's shirt",
+        "haircut": "Regent st blue hipster",
+        "emotion": "Raunchy"
+    },
+    "name": "Wormshington citizen #210"
 }

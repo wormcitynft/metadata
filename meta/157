@@ -1,4 +1,18 @@
 {
     "tokenId": 157,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/157.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 7,
+        "matter": "Fire",
+        "background": "Worm City delicate muted circle portal background #1",
+        "clothes": "Sushi sailor's shirt",
+        "haircut": "Rose cover for bald",
+        "emotion": "Enduring",
+        "glasses": "Hippie green pince-nez",
+        "ears": "Provincial pink true wireless earbuds",
+        "bird": "Foggy gray pigeon spy"
+    },
+    "name": "Wormshington citizen #157"
 }

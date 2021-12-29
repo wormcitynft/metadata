@@ -1,4 +1,15 @@
 {
     "tokenId": 128,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/128.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 13,
+        "matter": "Earth",
+        "background": "Worm City atmospheric cold background #142",
+        "clothes": "Morning glory sailor's shirt",
+        "emotion": "Shocked",
+        "headwear": "Hot pink astronaut helmet (eggplant glass)"
+    },
+    "name": "Wormshington citizen #128"
 }

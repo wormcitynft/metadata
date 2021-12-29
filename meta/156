@@ -1,4 +1,17 @@
 {
     "tokenId": 156,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/156.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 7,
+        "matter": "Earth",
+        "background": "Worm City delicate muted abstract portal background #88",
+        "clothes": "Petite orchid 404 ERROR t-shirt",
+        "haircut": "Disco Blade",
+        "emotion": "Weasel",
+        "glasses": "Shamrock funny eyes",
+        "tail accessory": "Dodger blue fish"
+    },
+    "name": "Wormshington citizen #156"
 }

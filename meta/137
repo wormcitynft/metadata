@@ -1,4 +1,18 @@
 {
     "tokenId": 137,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/137.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 10,
+        "matter": "Fire",
+        "background": "Worm City atmospheric cold background #66",
+        "clothes": "Rose sailor's shirt",
+        "haircut": "Salmon Mr Chong",
+        "emotion": "Resentful with jacked eye",
+        "glasses": "San marino Swimming mask with mischka",
+        "hand accessory": "Merlin smart watches with blue bayoux strap",
+        "tail accessory": "Snuff fish"
+    },
+    "name": "Wormshington citizen #137"
 }

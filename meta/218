@@ -1,4 +1,18 @@
 {
     "tokenId": 218,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/218.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 3,
+        "matter": "Earth",
+        "background": "Worm City exclusive circle portal background #22",
+        "clothes": "Java shirt",
+        "headwear": "Keppel bowler hat",
+        "emotion": "Lustful",
+        "ears": "Golden fizz true wireless earbuds",
+        "coins": "Silver dollar coin",
+        "bag": "Picton blue thrown bag"
+    },
+    "name": "Wormshington citizen #218"
 }

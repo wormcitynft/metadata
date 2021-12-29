@@ -1,4 +1,16 @@
 {
     "tokenId": 166,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/166.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 13,
+        "matter": "Lightning",
+        "background": "Worm City exclusive diamond portal background #19",
+        "clothes": "Aqua forest t-shirt with skull",
+        "haircut": "Green mist Rock n' Roll",
+        "emotion": "Angry with jacked eye",
+        "glasses": "Jungle green Swimming mask with green yellow"
+    },
+    "name": "Wormshington citizen #166"
 }

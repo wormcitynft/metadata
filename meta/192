@@ -1,4 +1,16 @@
 {
     "tokenId": 192,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/192.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 4,
+        "matter": "Earth",
+        "background": "Worm City delicate muted background #103",
+        "clothes": "Royal blue swimsuit",
+        "haircut": "Orange punk",
+        "emotion": "Skeptical with christine makeup",
+        "glasses": "Turquoise blue Zak's glasses with shark glass"
+    },
+    "name": "Wormshington citizen #192"
 }

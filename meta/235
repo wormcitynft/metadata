@@ -1,4 +1,16 @@
 {
     "tokenId": 235,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/235.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 4,
+        "matter": "Fire",
+        "background": "Worm City atmospheric cold background #122",
+        "clothes": "Turquoise sailor's shirt",
+        "haircut": "thunderbird punk",
+        "emotion": "Intrigued",
+        "glasses": "Sunglo funny eyes"
+    },
+    "name": "Wormshington citizen #235"
 }

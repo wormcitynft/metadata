@@ -1,4 +1,18 @@
 {
     "tokenId": 129,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/129.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 4,
+        "matter": "Holy",
+        "background": "Worm City exclusive circle portal background #52",
+        "tail tattoo": "Lucky",
+        "clothes": "Danube dress",
+        "necklace": "Navy blue necklace",
+        "headwear": "Green yellow and pear cap",
+        "emotion": "Pleasured with shocking pink makeup",
+        "tail accessory": "Sulu anglerfish"
+    },
+    "name": "Wormshington citizen #129"
 }

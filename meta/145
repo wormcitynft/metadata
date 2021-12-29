@@ -1,4 +1,17 @@
 {
     "tokenId": 145,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/145.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 11,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted diamond portal background #46",
+        "clothes": "Opal suit",
+        "haircut": "Disco cover for bald",
+        "emotion": "Resentful",
+        "glasses": "Deep koamaru pince-nez",
+        "bird": "Biloba flower screaming cockatoo"
+    },
+    "name": "Wormshington citizen #145"
 }

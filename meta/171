@@ -1,4 +1,17 @@
 {
     "tokenId": 171,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/171.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 3,
+        "matter": "Wind",
+        "background": "Worm City delicate muted diamond portal background #11",
+        "tail tattoo": "Millbrook",
+        "clothes": "Pickled bean nightie",
+        "haircut": "Deep blush punk",
+        "emotion": "Skeptical with electric violet makeup",
+        "glasses": "Jacksons purple aviator with plum glass"
+    },
+    "name": "Wormshington citizen #171"
 }

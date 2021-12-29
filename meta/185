@@ -1,4 +1,16 @@
 {
     "tokenId": 185,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/185.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 6,
+        "matter": "Dark",
+        "background": "Worm City delicate muted abstract portal background #17",
+        "clothes": "Deep blush t-shirt",
+        "haircut": "Algae green hipster",
+        "emotion": "Pleasured with tahiti gold makeup",
+        "tail accessory": "Hollywood cerise fish"
+    },
+    "name": "Wormshington citizen #185"
 }

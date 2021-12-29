@@ -1,4 +1,16 @@
 {
     "tokenId": 123,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/123.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 3,
+        "matter": "Fire",
+        "background": "Worm City delicate muted abstract portal background #87",
+        "clothes": "Grape shirt",
+        "headwear": "Maverick mind control headset",
+        "emotion": "Delightful",
+        "bird": "Shocking morning cock"
+    },
+    "name": "Wormshington citizen #123"
 }

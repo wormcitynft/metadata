@@ -1,4 +1,16 @@
 {
     "tokenId": 135,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/135.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 7,
+        "matter": "Holy",
+        "background": "Worm City exclusive circle portal background #19",
+        "clothes": "Rhino dress",
+        "headwear": "Keppel, scarlet, atlantis sombrero",
+        "emotion": "Confident with azure radiance makeup",
+        "glasses": "Blue charcoal pince-nez"
+    },
+    "name": "Wormshington citizen #135"
 }

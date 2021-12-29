@@ -1,4 +1,19 @@
 {
     "tokenId": 134,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/134.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 4,
+        "matter": "Water",
+        "background": "Worm City atmospheric cold background #121",
+        "tail tattoo": "Millbrook skull",
+        "clothes": "Elm t-shirt",
+        "clothes print": "Heart",
+        "headwear": "Au chico cylinder with cabaret line",
+        "emotion": "Excited",
+        "glasses": "Rose aviator with royal blue glass",
+        "bird": "Sunset orange screaming gull"
+    },
+    "name": "Wormshington citizen #134"
 }

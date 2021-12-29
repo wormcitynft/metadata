@@ -1,4 +1,17 @@
 {
     "tokenId": 196,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/196.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 11,
+        "matter": "Dark",
+        "background": "Worm City delicate muted circle portal background #128",
+        "clothes": "Downy sailor's shirt",
+        "haircut": "Riptide Mr Chong",
+        "emotion": "Weasel",
+        "glasses": "Curious blue Swimming mask with tangerine",
+        "hand accessory": "Merlin smart watches with oracle strap"
+    },
+    "name": "Wormshington citizen #196"
 }

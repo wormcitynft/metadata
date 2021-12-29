@@ -1,4 +1,16 @@
 {
     "tokenId": 195,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/195.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 1,
+        "matter": "Dark",
+        "background": "Worm City atmospheric cold background #154",
+        "clothes": "Crimson suit",
+        "haircut": "Green mist disheveled",
+        "emotion": "Weasel",
+        "tail accessory": "Bitter fish"
+    },
+    "name": "Wormshington citizen #195"
 }

@@ -1,4 +1,16 @@
 {
     "tokenId": 122,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/122.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 5,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted background #62",
+        "clothes": "Mountain meadow 404 ERROR t-shirt",
+        "haircut": "rhino man bun",
+        "emotion": "Intrigued",
+        "glasses": "Jacksons purple aviator with plum glass"
+    },
+    "name": "Wormshington citizen #122"
 }

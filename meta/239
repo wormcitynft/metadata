@@ -1,4 +1,17 @@
 {
     "tokenId": 239,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/239.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 11,
+        "matter": "Dark",
+        "background": "Worm City phenomenal background #19",
+        "clothes": "Pompadour 404 ERROR t-shirt",
+        "haircut": "Grape Blade",
+        "emotion": "Delightful with jacked eye",
+        "glasses": "Pink salmon funny eyes",
+        "bird": "Ming screaming cockatoo"
+    },
+    "name": "Wormshington citizen #239"
 }

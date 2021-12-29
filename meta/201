@@ -1,4 +1,17 @@
 {
     "tokenId": 201,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/201.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 2,
+        "matter": "Water",
+        "background": "Worm City exclusive diamond portal background #91",
+        "clothes": "Deep blush kimono",
+        "emotion": "Rick",
+        "glasses": "Elf green pince-nez",
+        "bag": "Lochmara thrown bag",
+        "headwear": "Torch red astronaut helmet (irish coffee glass)"
+    },
+    "name": "Wormshington citizen #201"
 }

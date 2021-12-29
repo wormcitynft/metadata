@@ -1,4 +1,18 @@
 {
     "tokenId": 158,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/158.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 11,
+        "matter": "Ice",
+        "background": "Worm City atmospheric cold background #162",
+        "clothes": "Martinique crop top",
+        "haircut": "Rhino ponytail",
+        "emotion": "High with turbo makeup",
+        "glasses": "Razzmatazz aviator with electric violet glass",
+        "hand accessory": "Merlin smart watches with ironside gray strap",
+        "bird": "Sahara sand screaming cockatoo"
+    },
+    "name": "Wormshington citizen #158"
 }

@@ -1,4 +1,18 @@
 {
     "tokenId": 131,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/131.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 8,
+        "matter": "Dark",
+        "background": "Worm City phenomenal background #30",
+        "clothes": "Petite orchid 404 ERROR t-shirt",
+        "haircut": "Amethyst disheveled",
+        "emotion": "Lustful",
+        "glasses": "Bay of many aviator with kashmir blue glass",
+        "ears": "Wild watermelon true wireless earbuds",
+        "bag": "Mauve thrown bag"
+    },
+    "name": "Wormshington citizen #131"
 }

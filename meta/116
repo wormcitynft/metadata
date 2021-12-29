@@ -1,4 +1,20 @@
 {
     "tokenId": 116,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/116.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 7,
+        "matter": "Ice",
+        "background": "Worm City delicate muted abstract portal background #9",
+        "tail tattoo": "Fern frond love",
+        "clothes": "Cyan \/ aqua nightie",
+        "necklace": "Hint of yellow necklace with purple gem",
+        "haircut": "Cyan \/ aqua ponytail",
+        "emotion": "Skeptical with purple pizzazz makeup",
+        "glasses": "Biloba flower aviator with seance glass",
+        "ears": "International orange earring balls",
+        "hand accessory": "Allports brace"
+    },
+    "name": "Wormshington citizen #116"
 }

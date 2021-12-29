@@ -1,4 +1,19 @@
 {
     "tokenId": 126,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/126.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 2,
+        "matter": "Water",
+        "background": "Worm City delicate muted background #55",
+        "tail tattoo": "Millbrook",
+        "clothes": "Steel blue crop top",
+        "headwear": "Malibu and picton blue cap",
+        "emotion": "Weasel",
+        "glasses": "Gurkha aviator with tahiti gold glass",
+        "ears": "Provincial pink true wireless earbuds",
+        "bird": "Sahara sand screaming cockatoo"
+    },
+    "name": "Wormshington citizen #126"
 }

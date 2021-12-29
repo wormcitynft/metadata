@@ -1,4 +1,16 @@
 {
     "tokenId": 147,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/147.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 13,
+        "matter": "Water",
+        "background": "Worm City atmospheric cold background #150",
+        "clothes": "Electric violet t-shirt with gradient",
+        "clothes print": "Pixel-heart",
+        "haircut": "Loulou oldschool",
+        "emotion": "Innocent"
+    },
+    "name": "Wormshington citizen #147"
 }

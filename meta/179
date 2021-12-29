@@ -1,4 +1,16 @@
 {
     "tokenId": 179,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/179.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 3,
+        "matter": "Wind",
+        "background": "Worm City classic background #56",
+        "clothes": "Scarlet t-shirt",
+        "emotion": "Confident",
+        "glasses": "Thunderbird aviator with wafer glass",
+        "ears": "Azure radiance true wireless earbuds"
+    },
+    "name": "Wormshington citizen #179"
 }

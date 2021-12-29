@@ -1,4 +1,17 @@
 {
     "tokenId": 162,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/162.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 10,
+        "matter": "Earth",
+        "background": "Worm City atmospheric cold background #5",
+        "clothes": "Elm dress",
+        "headwear": "Caribbean green winter hat",
+        "emotion": "Rickie with buttercup makeup",
+        "ears": "Observatory earrings",
+        "tail accessory": "Curious blue anglerfish"
+    },
+    "name": "Wormshington citizen #162"
 }

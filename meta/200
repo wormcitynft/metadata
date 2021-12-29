@@ -1,4 +1,18 @@
 {
     "tokenId": 200,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/200.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 7,
+        "matter": "Ice",
+        "background": "Worm City exclusive circle portal background #125",
+        "body tattoo": "East Bay",
+        "tail tattoo": "Mom",
+        "haircut": "Wormy twins",
+        "emotion": "Hopeful",
+        "glasses": "Fall green 3D glasses",
+        "bag": "Tradewind thrown briefcase"
+    },
+    "name": "Wormshington citizen #200"
 }

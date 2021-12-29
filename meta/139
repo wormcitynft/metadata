@@ -1,4 +1,18 @@
 {
     "tokenId": 139,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/139.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 8,
+        "matter": "Dark",
+        "background": "Worm City delicate muted abstract portal background #63",
+        "tail tattoo": "Astronaut love",
+        "clothes": "East bay kimono",
+        "emotion": "Delightful with jacked eye",
+        "glasses": "Hot cinnamon aviator with rio grande glass",
+        "ears": "Heliotrope true wireless earbuds",
+        "tail accessory": "Bossanova anglerfish"
+    },
+    "name": "Wormshington citizen #139"
 }

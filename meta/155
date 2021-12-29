@@ -1,4 +1,18 @@
 {
     "tokenId": 155,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/155.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 9,
+        "matter": "Ice",
+        "background": "Worm City delicate muted diamond portal background #88",
+        "clothes": "Azure radiance t-shirt with gradient",
+        "haircut": "Cranberry Rock n' Roll",
+        "emotion": "Hopeful",
+        "glasses": "Olivetone pince-nez",
+        "bag": "Cerise red thrown bag",
+        "tail accessory": "Danube fish"
+    },
+    "name": "Wormshington citizen #155"
 }

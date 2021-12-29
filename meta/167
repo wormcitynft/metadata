@@ -1,4 +1,18 @@
 {
     "tokenId": 167,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/167.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 5,
+        "matter": "Earth",
+        "background": "Worm City atmospheric cold background #20",
+        "clothes": "Green yellow crop top",
+        "haircut": "Red orange double trouble",
+        "emotion": "Innocent",
+        "glasses": "Jelly bean funny eyes",
+        "hand accessory": "Merlin smart watches with red robin strap",
+        "bird": "Harlequin morning cock"
+    },
+    "name": "Wormshington citizen #167"
 }

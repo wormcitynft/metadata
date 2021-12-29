@@ -1,4 +1,17 @@
 {
     "tokenId": 127,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/127.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 10,
+        "matter": "Dark",
+        "background": "Worm City atmospheric cold background #79",
+        "tail tattoo": "Millbrook",
+        "clothes": "Green yellow crop top",
+        "headwear": "Electric violet and royal blue cap",
+        "emotion": "High with turbo makeup",
+        "bird": "Waikawa gray morning cock"
+    },
+    "name": "Wormshington citizen #127"
 }

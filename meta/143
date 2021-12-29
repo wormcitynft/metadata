@@ -1,4 +1,18 @@
 {
     "tokenId": 143,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/143.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 7,
+        "matter": "Holy",
+        "background": "Worm City exclusive diamond portal background #77",
+        "clothes": "Deep sea t-shirt",
+        "haircut": "Cornflower blue ponytail",
+        "emotion": "Confident with chartreuse makeup",
+        "glasses": "Mantis aviator with storm gray glass",
+        "ears": "Brilliant rose earrings",
+        "bird": "Pig pink morning cock"
+    },
+    "name": "Wormshington citizen #143"
 }

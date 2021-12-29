@@ -1,4 +1,17 @@
 {
     "tokenId": 217,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/217.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 11,
+        "matter": "Ice",
+        "background": "Worm City classic background #138",
+        "tail tattoo": "Lucky",
+        "clothes": "East bay kimono",
+        "haircut": "cerise man bun",
+        "emotion": "Hopeful",
+        "glasses": "Harlequin aviator with pistachio glass"
+    },
+    "name": "Wormshington citizen #217"
 }

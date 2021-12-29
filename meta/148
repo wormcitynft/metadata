@@ -1,4 +1,16 @@
 {
     "tokenId": 148,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/148.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 7,
+        "matter": "Fire",
+        "background": "Worm City exclusive diamond portal background #166",
+        "clothes": "Cararra suit",
+        "headwear": "Maroon flush eight-blade",
+        "emotion": "Rickie with buttercup makeup",
+        "tail accessory": "Cranberry anglerfish"
+    },
+    "name": "Wormshington citizen #148"
 }

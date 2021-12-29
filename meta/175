@@ -1,4 +1,16 @@
 {
     "tokenId": 175,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/175.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 6,
+        "matter": "Holy",
+        "background": "Worm City delicate muted circle portal background #95",
+        "clothes": "Periwinkle nightie",
+        "headwear": "Stromboli military helmet",
+        "emotion": "Rickie with electric violet makeup",
+        "coins": "Golden dollar coins"
+    },
+    "name": "Wormshington citizen #175"
 }

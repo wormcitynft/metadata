@@ -1,4 +1,18 @@
 {
     "tokenId": 154,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/154.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 2,
+        "matter": "Ice",
+        "background": "Worm City delicate muted abstract portal background #20",
+        "tail tattoo": "Coral tree fish",
+        "clothes": "Brilliant rose suit",
+        "headwear": "Periwinkle gray winter hat",
+        "emotion": "Rickie with spring green makeup",
+        "glasses": "Jacarta 3D glasses",
+        "bird": "Razzmatazz screaming gull"
+    },
+    "name": "Wormshington citizen #154"
 }

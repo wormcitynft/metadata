@@ -1,4 +1,15 @@
 {
     "tokenId": 120,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/120.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 6,
+        "matter": "Wind",
+        "background": "Worm City atmospheric cold background #109",
+        "clothes": "Sunglow sailor's shirt",
+        "headwear": "Calypso eight-blade",
+        "emotion": "Delightful with jacked eye"
+    },
+    "name": "Wormshington citizen #120"
 }

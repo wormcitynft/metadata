@@ -1,4 +1,17 @@
 {
     "tokenId": 169,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/169.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 11,
+        "matter": "Water",
+        "background": "Worm City exclusive circle portal background #109",
+        "clothes": "Hibiscus crop top",
+        "necklace": "Perfume necklace with royal blue gem",
+        "haircut": "Blue dianne Leia",
+        "emotion": "Rickie with buttercup makeup",
+        "glasses": "Hot cinnamon aviator with razzmatazz glass"
+    },
+    "name": "Wormshington citizen #169"
 }

@@ -1,4 +1,17 @@
 {
     "tokenId": 146,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/146.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 5,
+        "matter": "Ice",
+        "background": "Worm City exclusive circle portal background #158",
+        "clothes": "Apricot sailor's shirt",
+        "haircut": "Texas rose Mr Chong",
+        "emotion": "Resentful",
+        "glasses": "Biloba flower aviator with seance glass",
+        "bag": "Royal blue thrown bag"
+    },
+    "name": "Wormshington citizen #146"
 }

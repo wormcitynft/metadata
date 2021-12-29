@@ -1,4 +1,15 @@
 {
     "tokenId": 159,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/159.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 6,
+        "matter": "Fire",
+        "background": "Worm City exclusive diamond portal background #147",
+        "clothes": "Razzmatazz shirt",
+        "haircut": "Selective yellow Blade",
+        "emotion": "Delightful with jacked eye"
+    },
+    "name": "Wormshington citizen #159"
 }

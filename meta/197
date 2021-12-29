@@ -1,4 +1,18 @@
 {
     "tokenId": 197,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/197.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 13,
+        "matter": "Dark",
+        "background": "Worm City classic background #129",
+        "tail tattoo": "Burning heart",
+        "clothes": "Razzmatazz t-shirt",
+        "haircut": "Harlequin punk",
+        "emotion": "Rickie with rose makeup",
+        "ears": "Mojo earring anchor",
+        "hand accessory": "Bright sun brace"
+    },
+    "name": "Wormshington citizen #197"
 }

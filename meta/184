@@ -1,4 +1,15 @@
 {
     "tokenId": 184,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/184.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 12,
+        "matter": "Holy",
+        "background": "Worm City atmospheric cold background #152",
+        "clothes": "Plum shirt",
+        "haircut": "Burnt maroon geek",
+        "emotion": "Intrigued with jacked eye"
+    },
+    "name": "Wormshington citizen #184"
 }

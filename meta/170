@@ -1,4 +1,16 @@
 {
     "tokenId": 170,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/170.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 2,
+        "matter": "Fire",
+        "background": "Worm City delicate muted background #45",
+        "clothes": "Bahama blue t-shirt",
+        "headwear": "Junior lieutenant periwinkle gray military helmet",
+        "emotion": "Skeptical with rose makeup",
+        "bag": "Picton blue thrown bag"
+    },
+    "name": "Wormshington citizen #170"
 }

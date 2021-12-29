@@ -1,4 +1,16 @@
 {
     "tokenId": 208,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/208.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 12,
+        "matter": "Earth",
+        "background": "Worm City exclusive diamond portal background #108",
+        "clothes": "Turquoise t-shirt",
+        "haircut": "Smalt granny",
+        "emotion": "Pleasured",
+        "glasses": "Apache and downy 3D glasses"
+    },
+    "name": "Wormshington citizen #208"
 }

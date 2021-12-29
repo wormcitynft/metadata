@@ -1,4 +1,17 @@
 {
     "tokenId": 136,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/136.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 1,
+        "matter": "Earth",
+        "background": "Worm City delicate muted background #91",
+        "tail tattoo": "Lucky",
+        "clothes": "Hibiscus crop top",
+        "headwear": "Junior lieutenant stromboli military helmet",
+        "emotion": "Skeptical with purple pizzazz makeup",
+        "hand accessory": "Merlin smart watches with thunderbird strap"
+    },
+    "name": "Wormshington citizen #136"
 }

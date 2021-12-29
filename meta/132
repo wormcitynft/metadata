@@ -1,4 +1,16 @@
 {
     "tokenId": 132,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/132.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 8,
+        "matter": "Water",
+        "background": "Worm City exclusive diamond portal background #53",
+        "tail tattoo": "Heart",
+        "clothes": "Thunderbird t-shirt",
+        "headwear": "Malibu and picton blue cap",
+        "emotion": "Shell-shocked"
+    },
+    "name": "Wormshington citizen #132"
 }

@@ -1,4 +1,17 @@
 {
     "tokenId": 236,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/236.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 11,
+        "matter": "Wind",
+        "background": "Worm City exclusive diamond portal background #61",
+        "clothes": "Firefly t-shirt",
+        "clothes print": "Star",
+        "haircut": "Disco cover for bald",
+        "emotion": "Skeptical",
+        "glasses": "Nevada pince-nez with red frames"
+    },
+    "name": "Wormshington citizen #236"
 }

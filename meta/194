@@ -1,4 +1,16 @@
 {
     "tokenId": 194,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/194.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 11,
+        "matter": "Lightning",
+        "background": "Worm City classic background #164",
+        "tail tattoo": "Tapestry skull",
+        "clothes": "Mustard t-shirt",
+        "headwear": "Brilliant rose construction helmet",
+        "emotion": "Enduring with azure radiance makeup"
+    },
+    "name": "Wormshington citizen #194"
 }

@@ -1,4 +1,17 @@
 {
     "tokenId": 215,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/215.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 7,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted background #28",
+        "clothes": "Tapestry blouse",
+        "headwear": "Rainbow army beret with silver badge",
+        "emotion": "Lustful",
+        "ears": "Blue ribbon earrings",
+        "tail accessory": "River bed hook with medium purple line"
+    },
+    "name": "Wormshington citizen #215"
 }

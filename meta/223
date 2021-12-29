@@ -1,4 +1,19 @@
 {
     "tokenId": 223,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/223.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 6,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted diamond portal background #122",
+        "tail tattoo": "Violet Eggplant",
+        "clothes": "Blue chill suit",
+        "haircut": "Snuff punk",
+        "emotion": "Weasel",
+        "glasses": "Egg-shaped with electric violet frame and allports glass",
+        "ears": "Flirt earring anchor",
+        "tail accessory": "Chambray anchor"
+    },
+    "name": "Wormshington citizen #223"
 }

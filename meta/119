@@ -1,4 +1,17 @@
 {
     "tokenId": 119,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/119.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 4,
+        "matter": "Water",
+        "background": "Worm City classic background #19",
+        "clothes": "Blue bayoux suit",
+        "haircut": "deep cerulean man bun",
+        "emotion": "Resentful with jacked eye",
+        "glasses": "Everglade pince-nez",
+        "bird": "Picton blue screaming cockatoo"
+    },
+    "name": "Wormshington citizen #119"
 }

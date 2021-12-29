@@ -1,4 +1,17 @@
 {
     "tokenId": 233,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/233.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 5,
+        "matter": "Holy",
+        "background": "Worm City exclusive diamond portal background #97",
+        "tail tattoo": "Millbrook love",
+        "clothes": "Sanguine brown 404 ERROR t-shirt",
+        "haircut": "thunderbird punk",
+        "emotion": "Enduring with jacked eye",
+        "glasses": "Amber funny eyes"
+    },
+    "name": "Wormshington citizen #233"
 }
