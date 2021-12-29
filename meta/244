@@ -1,4 +1,15 @@
 {
     "tokenId": 244,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/244.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 10,
+        "matter": "Fire",
+        "background": "Worm City exclusive circle portal background #35",
+        "clothes": "Charm suit",
+        "haircut": "Thunderbird Mr Chong",
+        "emotion": "Shell-shocked with jacked eye"
+    },
+    "name": "Wormshington citizen #244"
 }
