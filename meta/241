@@ -1,4 +1,15 @@
 {
     "tokenId": 241,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/241.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 12,
+        "matter": "Dark",
+        "background": "Worm City delicate muted circle portal background #69",
+        "clothes": "Brink pink nightie",
+        "haircut": "Regal blue oldschool",
+        "emotion": "High with electric violet makeup"
+    },
+    "name": "Wormshington citizen #241"
 }

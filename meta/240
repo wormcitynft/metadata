@@ -1,4 +1,16 @@
 {
     "tokenId": 240,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/240.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 5,
+        "matter": "Wind",
+        "background": "Worm City classic background #75",
+        "clothes": "Hollywood cerise sailor's shirt",
+        "haircut": "yellow punk",
+        "emotion": "Shell-shocked",
+        "ears": "Provincial pink true wireless earbuds"
+    },
+    "name": "Wormshington citizen #240"
 }
