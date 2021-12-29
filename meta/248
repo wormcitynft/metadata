@@ -1,4 +1,16 @@
 {
     "tokenId": 248,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/248.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 13,
+        "matter": "Water",
+        "background": "Worm City delicate muted background #97",
+        "clothes": "Christmas sweater",
+        "haircut": "Mojo hipster",
+        "emotion": "Shocked",
+        "ears": "Wild watermelon true wireless earbuds"
+    },
+    "name": "Wormshington citizen #248"
 }

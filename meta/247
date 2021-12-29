@@ -1,4 +1,15 @@
 {
     "tokenId": 247,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/247.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 5,
+        "matter": "Ice",
+        "background": "Worm City exclusive diamond portal background #12",
+        "clothes": "Gum leaf suit",
+        "tail accessory": "Mountain meadow fish",
+        "beard": "Angry Santa beard"
+    },
+    "name": "Wormshington citizen #247"
 }

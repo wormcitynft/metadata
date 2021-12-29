@@ -1,4 +1,17 @@
 {
     "tokenId": 246,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/246.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 12,
+        "matter": "Earth",
+        "background": "Worm City phenomenal cold background #15",
+        "clothes": "Mantis dress",
+        "headwear": "Snuff Santa hat with horns and bell",
+        "emotion": "High",
+        "ears": "Purple earring anchor",
+        "tail accessory": "Fresh eggplant hook with hot cinnamon line"
+    },
+    "name": "Wormshington citizen #246"
 }

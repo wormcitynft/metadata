@@ -1,4 +1,18 @@
 {
     "tokenId": 249,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/249.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 13,
+        "matter": "Lightning",
+        "background": "Worm City classic background #148",
+        "tail tattoo": "Tawny port love",
+        "clothes": "White shirt",
+        "necklace": "Regent st blue scarf",
+        "haircut": "carnation punk",
+        "emotion": "Confident",
+        "ears": "Elven ears"
+    },
+    "name": "Wormshington citizen #249"
 }

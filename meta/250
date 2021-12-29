@@ -1,4 +1,17 @@
 {
     "tokenId": 250,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/250.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 6,
+        "matter": "Ice",
+        "background": "Worm City exclusive diamond portal background #137",
+        "clothes": "Christmas sweater",
+        "headwear": "Royal heath construction helmet",
+        "emotion": "Rick",
+        "glasses": "Flamenco aviator with hibiscus glass",
+        "nose": "Flirt Christmas nose"
+    },
+    "name": "Wormshington citizen #250"
 }

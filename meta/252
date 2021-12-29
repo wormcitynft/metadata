@@ -1,4 +1,18 @@
 {
     "tokenId": 252,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/252.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 12,
+        "matter": "Fire",
+        "background": "Worm City atmospheric cold background #117",
+        "tail tattoo": "Heart",
+        "clothes": "Christmas sweater",
+        "necklace": "Razzmatazz scarf",
+        "headwear": "Aquamarine and pear cap",
+        "emotion": "High with electric violet makeup",
+        "gloves": "Scarlet Christmas gloves"
+    },
+    "name": "Wormshington citizen #252"
 }

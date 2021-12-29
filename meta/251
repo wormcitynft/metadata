@@ -1,4 +1,18 @@
 {
     "tokenId": 251,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/251.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 3,
+        "matter": "Water",
+        "background": "Worm City exclusive circle portal background #136",
+        "body tattoo": "Violet Eggplant",
+        "headwear": "Elven hat",
+        "emotion": "Raunchy",
+        "glasses": "Jagger pince-nez",
+        "ears": "Elven ears",
+        "nose": "Thunder Christmas nose"
+    },
+    "name": "Wormshington citizen #251"
 }
