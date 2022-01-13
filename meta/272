@@ -1,4 +1,17 @@
 {
     "tokenId": 272,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/272.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 13,
+        "matter": "Wind",
+        "background": "Worm City atmospheric cold background #157",
+        "clothes": "Brilliant rose nightie",
+        "necklace": "Hint of yellow necklace with blue charcoal gem",
+        "haircut": "Ziggurat lush hair",
+        "emotion": "Pleasured with malachite makeup",
+        "glasses": "Ebony Swimming mask with curious blue"
+    },
+    "name": "Wormshington citizen #272"
 }

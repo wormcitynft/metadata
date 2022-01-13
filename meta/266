@@ -1,4 +1,16 @@
 {
     "tokenId": 266,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/266.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 13,
+        "matter": "Water",
+        "background": "Worm City classic background #169",
+        "clothes": "Turquoise sailor's shirt",
+        "haircut": "caper punk",
+        "emotion": "Weasel with jacked eye",
+        "coins": "Silver euro coins"
+    },
+    "name": "Wormshington citizen #266"
 }

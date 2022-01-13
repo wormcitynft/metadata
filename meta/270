@@ -1,4 +1,16 @@
 {
     "tokenId": 270,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/270.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 9,
+        "matter": "Earth",
+        "background": "Worm City delicate muted abstract portal background #6",
+        "clothes": "Di serria t-shirt",
+        "clothes print": "Star",
+        "headwear": "Astral, harlequin, harlequin sombrero",
+        "emotion": "Delightful with jacked eye"
+    },
+    "name": "Wormshington citizen #270"
 }

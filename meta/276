@@ -1,4 +1,20 @@
 {
     "tokenId": 276,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/276.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 12,
+        "matter": "Earth",
+        "background": "Worm City exclusive circle portal background #44",
+        "tail tattoo": "East Bay",
+        "clothes": "Mustard swimsuit",
+        "haircut": "Spindle ponytail",
+        "emotion": "Rickie with rose makeup",
+        "glasses": "Lavender and celery 3D glasses",
+        "bird": "Turquoise screaming cockatoo",
+        "nose": "Link water Christmas nose",
+        "gloves": "Electric violet Christmas gloves"
+    },
+    "name": "Wormshington citizen #276"
 }

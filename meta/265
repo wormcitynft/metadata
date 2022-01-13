@@ -1,4 +1,17 @@
 {
     "tokenId": 265,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/265.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 11,
+        "matter": "Holy",
+        "background": "Worm City delicate muted circle portal background #116",
+        "clothes": "Big stone t-shirt",
+        "haircut": "Electric violet geek",
+        "emotion": "Weasel with jacked eye",
+        "glasses": "Bright turquoise Zak's glasses with manatee glass",
+        "bag": "Fuchsia pink thrown bag"
+    },
+    "name": "Wormshington citizen #265"
 }

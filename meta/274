@@ -1,4 +1,17 @@
 {
     "tokenId": 274,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/274.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Down",
+        "number": 8,
+        "matter": "Fire",
+        "background": "Worm City atmospheric cold background #169",
+        "clothes": "Radical red sailor's shirt",
+        "haircut": "Oxford blue geek",
+        "emotion": "High",
+        "hand accessory": "White smart watches with electric violet strap",
+        "tail accessory": "Azalea fish"
+    },
+    "name": "Wormshington citizen #274"
 }

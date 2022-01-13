@@ -1,4 +1,18 @@
 {
     "tokenId": 257,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/257.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 5,
+        "matter": "Wind",
+        "background": "Worm City delicate muted circle portal background #122",
+        "tail tattoo": "Violet Eggplant",
+        "clothes": "Turquoise sailor's shirt",
+        "headwear": "Apple, scarlet, atlantis sombrero",
+        "emotion": "Hopeful",
+        "glasses": "Blue smoke aviator with santas gray glass",
+        "bird": "Lochmara screaming cockatoo"
+    },
+    "name": "Wormshington citizen #257"
 }

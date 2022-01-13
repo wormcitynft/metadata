@@ -1,4 +1,18 @@
 {
     "tokenId": 268,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/268.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 11,
+        "matter": "Ice",
+        "background": "Worm City classic background #54",
+        "clothes": "Indigo nightie",
+        "headwear": "We peep slouchy with white bow",
+        "emotion": "Weasel",
+        "ears": "Mojo earring anchor",
+        "hand accessory": "Merlin smart watches with thunderbird strap",
+        "tail accessory": "Wild rice anchor"
+    },
+    "name": "Wormshington citizen #268"
 }

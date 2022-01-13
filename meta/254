@@ -1,4 +1,16 @@
 {
     "tokenId": 254,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/254.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Up",
+        "number": 2,
+        "matter": "Earth",
+        "background": "Worm City delicate muted circle portal background #66",
+        "clothes": "Sushi sailor's shirt",
+        "haircut": "Green mist Rock n' Roll",
+        "emotion": "Intrigued",
+        "tail accessory": "Golden dream hook with cavern pink line"
+    },
+    "name": "Wormshington citizen #254"
 }

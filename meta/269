@@ -1,4 +1,16 @@
 {
     "tokenId": 269,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/269.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 7,
+        "matter": "Holy",
+        "background": "Worm City delicate muted background #81",
+        "clothes": "Crimson suit",
+        "haircut": "Malachite cover for bald",
+        "emotion": "Weasel",
+        "glasses": "Violet red Zak's glasses with pelorous glass"
+    },
+    "name": "Wormshington citizen #269"
 }

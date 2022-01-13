@@ -1,4 +1,17 @@
 {
     "tokenId": 273,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/273.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Up",
+        "number": 8,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted abstract portal background #4",
+        "clothes": "Blue bayoux nightie",
+        "haircut": "Curious blue ponytail",
+        "emotion": "Confident with shocking pink makeup",
+        "glasses": "Bright turquoise Zak's glasses with manatee glass",
+        "tail accessory": "Loblolly anglerfish"
+    },
+    "name": "Wormshington citizen #273"
 }

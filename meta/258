@@ -1,4 +1,16 @@
 {
     "tokenId": 258,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/258.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 4,
+        "matter": "Earth",
+        "background": "Worm City delicate muted background #93",
+        "tail tattoo": "Millbrook",
+        "clothes": "Electric violet t-shirt with feathers",
+        "headwear": "Pharlap winter hat",
+        "emotion": "Skeptical with bright turquoise makeup"
+    },
+    "name": "Wormshington citizen #258"
 }

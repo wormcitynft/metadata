@@ -1,4 +1,16 @@
 {
     "tokenId": 259,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/259.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Down",
+        "number": 13,
+        "matter": "Holy",
+        "background": "Worm City atmospheric cold background #94",
+        "clothes": "Sunset orange suit",
+        "headwear": "Astral, cerulean, purple heart sombrero",
+        "emotion": "Rickie with lemon makeup",
+        "tail accessory": "Bossanova anglerfish"
+    },
+    "name": "Wormshington citizen #259"
 }

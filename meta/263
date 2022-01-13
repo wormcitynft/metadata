@@ -1,4 +1,17 @@
 {
     "tokenId": 263,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/263.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "One up",
+        "number": 10,
+        "matter": "Dark",
+        "background": "Worm City atmospheric cold background #120",
+        "clothes": "Thatch nightie",
+        "necklace": "Ripe lemon necklace with christi gem",
+        "headwear": "Razzmatazz panama",
+        "emotion": "Rickie with magenta \/ fuchsia makeup",
+        "glasses": "Limed spruce Zak's glasses with azure radiance glass"
+    },
+    "name": "Wormshington citizen #263"
 }

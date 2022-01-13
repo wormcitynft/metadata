@@ -1,4 +1,16 @@
 {
     "tokenId": 260,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/260.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 7,
+        "matter": "Dark",
+        "background": "Worm City delicate muted diamond portal background #102",
+        "clothes": "Ironside gray kimono",
+        "haircut": "thunderbird punk",
+        "emotion": "High with jacked eye",
+        "tail accessory": "Hibiscus hook with orange line"
+    },
+    "name": "Wormshington citizen #260"
 }

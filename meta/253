@@ -1,4 +1,16 @@
 {
     "tokenId": 253,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/253.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 8,
+        "matter": "Holy",
+        "background": "Worm City atmospheric cold background #94",
+        "tail tattoo": "Mom",
+        "clothes": "Melanie crop top",
+        "headwear": "Burnt umber slouchy",
+        "emotion": "Pleasured with blue makeup"
+    },
+    "name": "Wormshington citizen #253"
 }

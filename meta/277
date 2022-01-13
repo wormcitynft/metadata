@@ -1,4 +1,18 @@
 {
     "tokenId": 277,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/277.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 1,
+        "matter": "Water",
+        "background": "Worm City delicate muted abstract portal background #41",
+        "tail tattoo": "Millbrook love",
+        "clothes": "Christmas sweater",
+        "haircut": "cloud burst punk",
+        "emotion": "Delightful with jacked eye",
+        "glasses": "Dark genoa pince-nez",
+        "tail accessory": "Shingle fawn anchor"
+    },
+    "name": "Wormshington citizen #277"
 }

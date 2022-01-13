@@ -1,4 +1,16 @@
 {
     "tokenId": 255,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/255.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 8,
+        "matter": "Lightning",
+        "background": "Worm City delicate muted diamond portal background #10",
+        "clothes": "Curious blue nightie",
+        "headwear": "White and tulip tree cap",
+        "emotion": "Rickie with lemon makeup",
+        "glasses": "Cadet blue Zak's glasses with east bay glass"
+    },
+    "name": "Wormshington citizen #255"
 }

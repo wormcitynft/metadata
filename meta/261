@@ -1,4 +1,15 @@
 {
     "tokenId": 261,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/261.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "Sides",
+        "number": 6,
+        "matter": "Earth",
+        "background": "Worm City delicate muted abstract portal background #74",
+        "clothes": "Fruit salad kimono",
+        "haircut": "pastel green man bun",
+        "emotion": "Intrigued with jacked eye"
+    },
+    "name": "Wormshington citizen #261"
 }

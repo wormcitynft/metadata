@@ -1,4 +1,19 @@
 {
     "tokenId": 278,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/278.png",
+    "attributes": {
+        "sex": "Female",
+        "hands": "Sides",
+        "number": 13,
+        "matter": "Fire",
+        "background": "Worm City delicate muted abstract portal background #20",
+        "clothes": "Cranberry suit",
+        "headwear": "Hibiscus stetson with lima line",
+        "emotion": "Hopeful",
+        "glasses": "Rose aviator with electric violet glass",
+        "tail accessory": "Azalea fish",
+        "nose": "Cornflower blue Christmas nose",
+        "gloves": "Scarlet Christmas gloves"
+    },
+    "name": "Wormshington citizen #278"
 }

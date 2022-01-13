@@ -1,4 +1,16 @@
 {
     "tokenId": 267,
-    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/under_cover.gif"
+    "image": "https:\/\/raw.githubusercontent.com\/wormcitynft\/metadata\/main\/worms\/267.png",
+    "attributes": {
+        "sex": "Male",
+        "hands": "One up",
+        "number": 10,
+        "matter": "Holy",
+        "background": "Worm City exclusive circle portal background #77",
+        "clothes": "Ironside gray t-shirt with skull",
+        "emotion": "Hopeful with jacked eye",
+        "tail accessory": "Dell anglerfish",
+        "headwear": "Rainbow astronaut helmet (mulled wine glass)"
+    },
+    "name": "Wormshington citizen #267"
 }
